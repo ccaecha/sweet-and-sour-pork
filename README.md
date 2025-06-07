@@ -95,7 +95,7 @@ Here’s what you’ll need to make Sweet and Sour Pork:
 - **Vegetables**: Add other veggies like **broccoli**, **snap peas**, or **zucchini** for added nutrition and texture.
  
 ### For Spicy Food Lovers :
-- **Spice It Up** {% octicon "flame" aria-hidden=true %}: Add chopped **fresh chili peppers** or a dash of **chili sauce** to the sweet and sour sauce.
+- **Spice It Up**: Add chopped **fresh chili peppers** or a dash of **chili sauce** to the sweet and sour sauce.
 - **Garnish**: Top with **sliced jalapeños** or **red pepper flakes** for an extra kick.
  
 Each ingredient plays a role in creating the signature sweet and tangy flavor of this dish, and these alternatives allow for customisation based on dietary preferences.
@@ -149,11 +149,12 @@ Following these steps in sequence ensures that everything cooks properly and the
  
 ## Serving Suggestions
  
-- **Serve Over Rice**: Sweet and Sour Pork pairs perfectly with steamed white rice or fried rice for a complete meal.
+- **Serve Over Rice**: Sweet and Sour Pork pairs perfectly with steamed white rice or fried rice for a complete meal.  
+  **Alternatives**: Quinoa or cauliflower can be ~~great~~ substitutes for traditional rice if you’re looking for a healthier option. 
 - **Garnish**: Consider adding chopped green onions or sesame seeds for extra flavor and a nice presentation.
 - **Accompanying Dishes**: You might also serve the dish alongside spring rolls or a light salad for a well-rounded dining experience.
  
-**Alternatives**: Quinoa or cauliflower can be ~~great~~ substitutes for traditional rice if you’re looking for a healthier option. {% octicon "code-of-conduct" aria-hidden=true %}
+
  
 These suggestions enhance the overall meal and make it more enjoyable.
  
@@ -232,24 +233,16 @@ To explore the markdown source and experiment with editing, you can clone this r
 
 #### 1. Install Git
 
-{% windows %}
-
 **Windows:**
 - Download Git from [git-scm.com](https://git-scm.com/download/win).
 - Run the installer and follow the default prompts.
 - After installation, open the **Command Prompt** (press `Win + R`, type `cmd`, and press Enter).
 
-{% endwindows %}
-
-{% mac %}
 
 **macOS:**
 - Open the **Terminal** app (find it in Applications > Utilities).
 - Type `git --version`. If Git is not installed, you will be prompted to install the Xcode Command Line Tools. Follow the on-screen instructions.
 
-{% endmac %}
-
-{% linux %}
 
 **Linux (Ubuntu/Debian):**
 - Open the **Terminal**.
@@ -259,7 +252,6 @@ To explore the markdown source and experiment with editing, you can clone this r
     sudo apt install git
     ```
 
-{% endlinux %}
 
 #### 2. Clone the Repository
 
@@ -286,11 +278,11 @@ By following these steps, you can become comfortable with both the process of wo
 
 ---
 ### Footnote
-{% vscode %}
 
-This document is prepared with VSCode (Visual Studio Code). You may download and install a copy from https://code.visualstudio.com/
 
-{% endvscode %}
+> This document is prepared with VSCode (Visual Studio Code). You may download and install a copy from https://code.visualstudio.com/
+
+
 
 ```markdown annotate
 # This document is using the `markdown` format. 
