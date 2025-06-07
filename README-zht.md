@@ -296,7 +296,7 @@
 
 在命令提示字元或終端機輸入：
 ```sh
-git clone https://github.com/your-username/recipe.git
+git clone https://github.com/ccaecha/sweet-and-sour-pork.git
 ```
 請將 `your-username` 替換為實際的 GitHub 帳號或組織名稱。
 

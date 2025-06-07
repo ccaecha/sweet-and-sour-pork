@@ -296,7 +296,7 @@
 
 В командной строке или терминале выполните:
 ```sh
-git clone https://github.com/your-username/recipe.git
+git clone https://github.com/ccaecha/sweet-and-sour-pork.git
 ```
 Замените `your-username` на ваш реальный логин или организацию на GitHub.
 

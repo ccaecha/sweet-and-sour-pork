@@ -290,7 +290,7 @@
 
 在命令行中输入：
 ```sh
-git clone https://github.com/your-username/recipe.git
+git clone https://github.com/ccaecha/sweet-and-sour-pork.git
 ```
 将 `your-username` 替换为实际的 GitHub 用户名或组织名。
 

@@ -291,7 +291,7 @@
 
 अपने कमांड प्रॉम्प्ट या टर्मिनल में चलाएँ:
 ```sh
-git clone https://github.com/your-username/recipe.git
+git clone https://github.com/ccaecha/sweet-and-sour-pork.git
 ```
 `your-username` को अपने असली GitHub यूज़रनेम या संगठन से बदलें।
 

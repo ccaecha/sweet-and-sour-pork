@@ -291,7 +291,7 @@ Para explorar el código fuente markdown y experimentar con la edición, puedes 
 
 En tu terminal o símbolo del sistema, ejecuta:
 ```sh
-git clone https://github.com/your-username/recipe.git
+git clone https://github.com/ccaecha/sweet-and-sour-pork.git
 ```
 Reemplaza `your-username` por tu usuario u organización de GitHub.
 

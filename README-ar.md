@@ -291,7 +291,7 @@
 
 في موجه الأوامر أو الطرفية، نفذ:
 ```sh
-git clone https://github.com/your-username/recipe.git
+git clone https://github.com/ccaecha/sweet-and-sour-pork.git
 ```
 استبدل `your-username` باسم المستخدم أو المنظمة على GitHub.
 

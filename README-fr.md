@@ -291,7 +291,7 @@ Pour explorer le code source markdown et vous entraîner à l’éditer, vous po
 
 Dans votre terminal ou invite de commandes, exécutez :
 ```sh
-git clone https://github.com/your-username/recipe.git
+git clone https://github.com/ccaecha/sweet-and-sour-pork.git
 ```
 Remplacez `your-username` par votre nom d’utilisateur ou organisation GitHub.
 

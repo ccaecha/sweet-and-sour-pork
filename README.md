@@ -299,7 +299,7 @@ To explore the markdown source and experiment with editing, you can clone this r
 
 In your command prompt or terminal, run:
 ```sh
-git clone https://github.com/your-username/recipe.git
+git clone https://github.com/ccaecha/sweet-and-sour-pork.git
 ```
 Replace `your-username` with the actual GitHub username or organization.
 

@@ -291,7 +291,7 @@ Per esplorare il markdown e provare a modificarlo, puoi clonare questo repositor
 
 Nel prompt dei comandi o nel terminale, esegui:
 ```sh
-git clone https://github.com/your-username/recipe.git
+git clone https://github.com/ccaecha/sweet-and-sour-pork.git
 ```
 Sostituisci `your-username` con il tuo nome utente o organizzazione GitHub.
 
