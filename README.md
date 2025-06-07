@@ -191,19 +191,61 @@ While cooking Sweet and Sour Pork, there are a few risks to be aware of, along w
 ### Potential Risks
  
 1. **Flavor Imbalance**: The sweet and sour sauce might end up too sweet or too sour.
-   - **Mitigation**: Taste the sauce before adding it to the dish. Adjust the balance by adding more sugar or vinegar as needed.
+    - **Mitigation Steps**:  
+        1. Before adding the sauce to the dish, taste it to assess the balance of sweetness and sourness.  
+        2. If the sauce is too sweet, add a small amount of vinegar and mix well.  
+        3. If the sauce is too sour, add a little more sugar and stir to dissolve.  
+        4. Taste again after each adjustment, repeating as necessary until the desired balance is achieved.  
+        5. Once satisfied with the flavor, proceed to add the sauce to the dish.
  
 2. **Ingredient Availability**: You may not have all the ingredients on hand.
-   - **Mitigation**: Have alternative ingredients ready (e.g., using chicken instead of pork, or different vegetables) to ensure you can still create a similar dish.
+   - **Mitigation Steps**:  
+        1. Review the list of required ingredients before starting.
+        2. Identify any ingredients you do not have on hand.
+        3. Refer to the "Alternatives" section in this guide for suitable substitutions (e.g., use chicken, tofu, or mushrooms instead of pork; swap in different vegetables like broccoli or snap peas).
+        4. Prepare the alternative ingredients in the same way as the originals (e.g., marinate chicken or tofu as you would pork).
+        5. Adjust cooking times as needed for the substituted ingredients to ensure proper texture and doneness.
+        6. Taste and adjust seasonings if necessary, as some alternatives may absorb flavors differently.
  
 3. **Overcooking**: Ingredients, especially the pork, may become tough if overcooked.
-   - **Mitigation**: Keep a close eye on cooking times and temperatures, and use a timer if necessary.
+   - **Mitigation Steps**: 
+        1. Monitor the cooking process closely, especially when frying or stir-frying the pork.
+        2. Set a timer according to the recommended cooking times for each step (e.g., 5-7 minutes for pork, 3-4 minutes for vegetables).
+        3. Use medium-high heat and avoid leaving the pan unattended.
+        4. Check the doneness of the pork by cutting into a piece; it should be cooked through but still juicy.
+        5. Remove ingredients from the heat as soon as they reach the desired texture to prevent further cooking.
+        6. If unsure, slightly undercook the pork and let it finish cooking when combined with the sauce.
 
 ### Fallback Plans
  
-- **If the Sauce is Off**: If you find the sauce too thick or unbalanced, consider making a quick adjustment by adding a splash of water or more vinegar to lighten it up. You can also serve the dish with additional sauces on the side, like soy sauce or chili sauce, for customisation.
+- **If the Sauce is Off**:  
+    If the sauce is off, follow these steps to adjust and recover:
+
+    1. **Taste the Sauce**: Before making any changes, sample a small amount to determine if it’s too sweet, too sour, or too thick.
+    2. **Adjust Consistency**:
+        - If the sauce is too thick, add a splash of water and stir well. Repeat as needed until you reach the desired consistency.
+    3. **Balance the Flavors**:
+        - If the sauce is too sweet, add a small amount of vinegar, mix, and taste again.
+        - If the sauce is too sour, add a little more sugar, stir to dissolve, and taste.
+        - Make adjustments gradually, tasting after each addition.
+    4. **Simmer Briefly**: Let the sauce simmer for 1–2 minutes after adjustments to help the flavors meld.
+    5. **Serve with Extra Sauces**: Offer soy sauce, chili sauce, or other condiments on the side so diners can further customize their portions if needed.
+
+    By following these steps, you can quickly bring the sauce back into balance and ensure a tasty result.
  
-- **If the Dish Doesn’t Turn Out as Planned**: If the flavors or textures aren’t as expected, don’t hesitate to transform the dish. You can turn it into a stir-fry by adding more vegetables and serving it over rice, which can help salvage the meal.
+- **If the Dish Doesn’t Turn Out as Planned**:   
+    If the flavors or textures aren’t as expected, you can still salvage the dish by transforming it into a stir-fry. Here’s how:
+
+    1. **Assess the Dish**: Taste and check the texture. Identify what’s off—flavor, texture, or both.
+    2. **Prepare Additional Vegetables**: Chop extra vegetables such as broccoli, snap peas, carrots, or zucchini to add freshness and bulk.
+    3. **Heat the Wok or Skillet**: Add a bit of oil and heat over medium-high.
+    4. **Stir-Fry the Vegetables**: Add the new vegetables to the pan and stir-fry for 2–4 minutes until just tender.
+    5. **Combine with the Original Dish**: Add the original sweet and sour pork (or its alternative) to the pan with the vegetables.
+    6. **Adjust the Sauce**: Taste the sauce again. If needed, add a splash of soy sauce, vinegar, or a pinch of sugar to balance the flavors. Add a little water if the sauce is too thick.
+    7. **Mix and Heat Through**: Stir everything together and cook for another 2–3 minutes until heated through and well combined.
+    8. **Serve Over Rice**: Plate the transformed stir-fry over steamed rice or another grain of your choice.
+
+    By following these steps, you can refresh the dish and create a satisfying meal even if the original didn’t turn out as planned.
  
 By being aware of these risks and having fallback plans, you can enhance your cooking experience and enjoy your Sweet and Sour Pork with confidence.
  
