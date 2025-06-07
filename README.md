@@ -5,7 +5,7 @@ Author: Samuel Chan
 Created on: 2025-06-07
 ---
 
-Sweet and Sour Pork is a beloved dish known for its vibrant colors and delightful balance of flavors. Originating from ==Cantonese== cuisine, this dish has become a staple in Chinese restaurants around the world, particularly in Western countries. The combination of tender pork, crisp vegetables, and a tangy sauce makes it a favorite for many.
+Sweet and Sour Pork is a beloved dish known for its vibrant colors and delightful balance of flavors. Originating from Cantonese cuisine, this dish has become a staple in Chinese restaurants around the world, particularly in Western countries. The combination of tender pork, crisp vegetables, and a tangy sauce makes it a favorite for many.
 
 ![Sweet and Sour Pork](img/sweet-and-sour-pork.png)
 
@@ -95,7 +95,7 @@ Here’s what you’ll need to make Sweet and Sour Pork:
 - **Vegetables**: Add other veggies like **broccoli**, **snap peas**, or **zucchini** for added nutrition and texture.
  
 ### For Spicy Food Lovers :
-- **Spice It Up** {% opticon "flame" aria-hidden=true %}: Add chopped **fresh chili peppers** or a dash of **chili sauce** to the sweet and sour sauce.
+- **Spice It Up** {% octicon "flame" aria-hidden=true %}: Add chopped **fresh chili peppers** or a dash of **chili sauce** to the sweet and sour sauce.
 - **Garnish**: Top with **sliced jalapeños** or **red pepper flakes** for an extra kick.
  
 Each ingredient plays a role in creating the signature sweet and tangy flavor of this dish, and these alternatives allow for customisation based on dietary preferences.
@@ -108,10 +108,10 @@ Each ingredient plays a role in creating the signature sweet and tangy flavor of
    - In a mixing bowl, combine the pork pieces with soy sauce and cornstarch.
    - Mix well and let it marinate for at least 15-30 minutes. This helps tenderise the pork and infuse flavor.
  
-   > [!NOTE]
+   > [!NOTE]  
    > If using chicken, tofu, or mushrooms, follow the same marination process.
  
-2. **Prepare the Vegetables** (10 minutes) [^1]:
+2. **Prepare the Vegetables** (10 minutes): [^1]
    - While the pork marinates, chop the bell pepper and onion into bite-sized pieces. If you’re using a carrot, slice it thinly for even cooking.
    - Drain the pineapple chunks if using canned.
  
@@ -153,7 +153,7 @@ Following these steps in sequence ensures that everything cooks properly and the
 - **Garnish**: Consider adding chopped green onions or sesame seeds for extra flavor and a nice presentation.
 - **Accompanying Dishes**: You might also serve the dish alongside spring rolls or a light salad for a well-rounded dining experience.
  
-**Alternatives**: Quinoa or cauliflower can be ~~great~~ substitutes for traditional rice if you’re looking for a healthier option. {% opticon "code-of-conduct" aria-hidden=true %}
+**Alternatives**: Quinoa or cauliflower can be ~~great~~ substitutes for traditional rice if you’re looking for a healthier option. {% octicon "code-of-conduct" aria-hidden=true %}
  
 These suggestions enhance the overall meal and make it more enjoyable.
  
@@ -290,7 +290,7 @@ By following these steps, you can become comfortable with both the process of wo
 
 This document is prepared with VSCode (Visual Studio Code). You may download and install a copy from https://code.visualstudio.com/
 
-{% endvscode &}
+{% endvscode %}
 
 ```markdown annotate
 # This document is using the `markdown` format. 
