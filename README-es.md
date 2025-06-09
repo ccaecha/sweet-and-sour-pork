@@ -1,274 +1,249 @@
-# Receta de *cerdo agridulce* chino occidentalizado 🍍🥢
+# 🛠️ Runbook: Preparación de Cerdo Agridulce (Estilo Chino Occidentalizado)
 
----
-Autor: Samuel Chan  
-Creado el: 2025-06-07
----
-
-El cerdo agridulce es un plato querido por sus colores vibrantes y su delicioso equilibrio de sabores. Originario de la cocina cantonesa, este plato se ha convertido en un clásico en los restaurantes chinos de todo el mundo, especialmente en países occidentales. La combinación de cerdo tierno, verduras crujientes y una salsa agridulce lo hace favorito de muchos.
-
-![Cerdo agridulce](img/sweet-and-sour-pork.png)
-
-## Breve historia y orígenes
-
-Las raíces del cerdo agridulce se remontan a las regiones del sur de China, donde el uso de sabores dulces y ácidos es común en varios platos. El plato ganó popularidad en el siglo XX, especialmente después de que inmigrantes chinos lo introdujeran a públicos occidentales. A menudo se asocia con ocasiones festivas y reuniones familiares, siendo una opción popular para celebraciones.
-
-### Por qué lo comemos
-
-El cerdo agridulce se disfruta por su perfil de sabor único, que combina la dulzura del azúcar y el kétchup con la acidez del vinagre. Este equilibrio no solo realza el sabor, sino que también hace que el plato sea visualmente atractivo por sus colores brillantes. Es común servirlo durante el Año Nuevo Chino y otras festividades, simbolizando buena fortuna y felicidad.
-
-### Curiosidades
-
-- **Variaciones**: Diferentes regiones tienen sus propias versiones del cerdo agridulce, usando distintas proteínas o verduras.
-- **Popularidad**: Este plato es uno de los más pedidos en restaurantes chinos a nivel mundial, especialmente en Estados Unidos y Canadá.
-- **Significado cultural**: El plato representa la armonía de sabores, un concepto fundamental en la cocina china.
+**ID del Runbook:** `RB-RECIPE-001`  
+**Área de Servicio:** Operaciones Culinarias  
+**Autor:** Samuel Chan  
+**Creado el:** 2025-06-07  
+**Última Revisión:** 2025-06-09
 
 ---
 
-## Tabla de contenidos
+## 📚 Contexto
 
-1. [Requisitos previos](#requisitos-previos)
-2. [Ingredientes](#ingredientes)
-3. [Pasos de preparación](#pasos-de-preparación)
-4. [Instrucciones de cocción](#instrucciones-de-cocción)
-5. [Sugerencias para servir](#sugerencias-para-servir)
-6. [Consejos para resolver problemas](#consejos-para-resolver-problemas)
-7. [Riesgos y alternativas](#riesgos-y-alternativas)
+### Breve Historia y Orígenes
+El cerdo agridulce tiene sus raíces en la cocina cantonesa, especialmente en las regiones del sur de China, donde los sabores agridulces son comunes. Con el tiempo, este plato ganó popularidad mundial, especialmente tras ser introducido por inmigrantes chinos a públicos occidentales en el siglo XX. Hoy en día, es uno de los platos chinos más reconocidos y servidos en el mundo.
 
----
+![Cerdo Agridulce](img/sweet-and-sour-pork.png)
 
-## Lista de tareas
+### Por Qué Se Celebra Este Plato
+El atractivo del cerdo agridulce radica en sus colores vibrantes, el contraste de texturas y el equilibrio entre el vinagre ácido y el dulzor del azúcar y el kétchup. Más allá del sabor, también tiene simbolismo cultural, especialmente durante festividades como el Año Nuevo Chino, donde representa felicidad y buena fortuna.
 
-- [ ] Reunir todos los ingredientes y utensilios de cocina
-- [ ] Preparar los ingredientes
-- [ ] Seguir las instrucciones de cocción
-- [ ] ¡Servir y disfrutar!
+### Datos Curiosos
+Popularidad Global: Uno de los platos más pedidos en restaurantes chinos, especialmente en EE. UU. y Canadá.
+
+Variaciones Regionales: Algunas versiones sustituyen el cerdo por pollo, tofu o mariscos, reflejando preferencias locales y necesidades dietéticas.
+
+Simbolismo: La armonía de sabores dulces y ácidos refleja un principio clave en la cocina china: equilibrio y unidad.
 
 ---
 
-## Requisitos previos
+## 📘 Propósito
 
-Antes de comenzar, reúne los siguientes utensilios de cocina:
-
-### Utensilios de cocina
-
-| Utensilio                | Propósito                                      |
-|--------------------------|------------------------------------------------|
-| **Wok o sartén grande**  | Ideal para saltear                             |
-| **Tabla de cortar**      | Esencial para picar                            |
-| **Cuchillo de chef**     | Crucial para cortes limpios                    |
-| **Bol para mezclar**     | Útil para marinar y mezclar salsas             |
-| **Tazas y cucharas medidoras** | Para asegurar cantidades precisas         |
-| **Cuchara ranurada**     | Para retirar el exceso de aceite               |
-| **Plato o fuente**       | Para presentar el plato terminado              |
-| **Pinzas o cuchara de madera** | Para remover y voltear ingredientes      |
-
-Tener estos utensilios listos hará que tu experiencia en la cocina sea más fluida y agradable.
+Este runbook describe el procedimiento estándar para preparar una versión occidentalizada del cerdo agridulce chino. Está diseñado para proporcionar resultados consistentes mediante una ejecución paso a paso y demostrar cómo la documentación estructurada puede agilizar procesos complejos, incluso en un contexto culinario.
 
 ---
 
-## Ingredientes
+## 🔍 Alcance
 
-Esto es lo que necesitas para preparar cerdo agridulce:
-
-### Para marinar el cerdo:
-- 500g de lomo de cerdo (cortado en trozos pequeños)
-- 1 cucharada de salsa de soja
-- 1 cucharada de maicena
-
-### Para la salsa agridulce:
-- 1/4 taza de kétchup
-- 1/4 taza de vinagre de arroz (o vinagre blanco)
-- 1/4 taza de azúcar
-- 1 cucharada de salsa de soja
-
-### Para el salteado:
-- 1 cucharada de aceite vegetal (para freír el cerdo)
-- 1 pimiento (rojo o verde, cortado en trozos)
-- 1 cebolla (cortada en trozos)
-- 1/2 taza de piña en trozos (enlatada o fresca)
-- Opcional: 1 zanahoria (en rodajas)
-
-### Alternativas:
-- **Cerdo**: Sustituye por pollo, ternera, tofu o **champiñones** para una opción vegetariana. Para un plato completamente vegano, usa **tempeh** o **seitán**.
-- **Piña**: Si prefieres, puedes usar **mango** o eliminar la fruta para un perfil de sabor diferente.
-- **Verduras**: Añade otras verduras como **brócoli**, **guisantes chinos** o **calabacín** para más nutrición y textura.
-
-### Para amantes del picante:
-- **Dale picante**: Añade **chiles frescos picados** o un poco de **salsa picante** a la salsa agridulce.
-- **Decoración**: Espolvorea **jalapeños en rodajas** o **copos de chile rojo** para un toque extra.
-
-Cada ingrediente contribuye al sabor característico del plato, y estas alternativas permiten personalizarlo según tus preferencias dietéticas.
+Este runbook aplica a escenarios de preparación de alimentos tanto en el hogar como en entornos educativos. Está dirigido a cocineros principiantes e intermedios y es apto para dietas con carne o vegetarianas con las sustituciones adecuadas.
 
 ---
 
-## Pasos de preparación
+## ✅ Prerrequisitos
 
-1. **Marinar el cerdo** (15-30 minutos):
-   - En un bol, mezcla los trozos de cerdo con salsa de soja y maicena.
-   - Mezcla bien y deja marinar al menos 15-30 minutos. Esto ayuda a ablandar el cerdo y darle sabor.
+### Equipamiento Requerido
 
-   > [!NOTE]  
-   > Si usas pollo, tofu o champiñones, sigue el mismo proceso de marinado.
-
-2. **Preparar las verduras** (10 minutos): [^1]
-   - Mientras el cerdo se marina, corta el pimiento y la cebolla en trozos pequeños. Si usas zanahoria, córtala en rodajas finas para que se cocine uniformemente.
-   - Escurre la piña si es enlatada.
-
-   **Alternativas**: Puedes añadir otras verduras como brócoli, guisantes chinos o champiñones para enriquecer el plato.
-
-[^1]: Preparar los ingredientes con antelación agiliza el proceso de cocción y lo hace más organizado.
+| Herramienta             | Propósito                              |
+| ----------------------- | -------------------------------------- |
+| Wok o sartén grande     | Saltear los ingredientes               |
+| Tabla de cortar         | Picar verduras y carne                 |
+| Cuchillo de chef        | Cortes precisos para cocción uniforme  |
+| Bol para mezclar        | Marinar y mezclar                      |
+| Tazas/cucharas medidoras| Medición precisa de ingredientes       |
+| Espumadera              | Retirar el cerdo frito                 |
+| Plato para servir       | Presentar el plato final               |
+| Pinzas o cuchara de madera | Remover y mezclar durante la cocción |
 
 ---
 
-## Instrucciones de cocción
+## 📦 Insumos (Ingredientes)
 
-1. **Calienta el wok**:
-   - Pon el wok o sartén a fuego medio-alto. Añade el aceite vegetal y deja que se caliente hasta que brille.
+### Ingredientes Principales
 
-2. **Fríe el cerdo** (5-7 minutos):
-   - Añade el cerdo marinado al aceite caliente en una sola capa. Evita amontonar para que se cocine de manera uniforme.
-   - Cocina unos 5-7 minutos hasta que esté dorado y bien cocido. Retira el cerdo con una cuchara ranurada y resérvalo.
+#### Marinada de Cerdo:
 
-   **Alternativas**: Si usas champiñones, saltéalos unos 3-4 minutos hasta que estén dorados y tiernos.
+* 500g de lomo de cerdo (en trozos pequeños)
+* 1 cucharada de salsa de soja
+* 1 cucharada de maicena
 
-3. **Saltea las verduras** (3-4 minutos):
-   - En el mismo wok, añade un poco más de aceite si es necesario. Agrega la cebolla, el pimiento y la zanahoria.
-   - Saltea unos 3-4 minutos hasta que las verduras estén tiernas pero crujientes.
+#### Salsa Agridulce:
 
-4. **Añade la piña y la salsa** (2 minutos):
-   - Incorpora los trozos de piña al wok.
-   - En un bol aparte, mezcla el kétchup, vinagre de arroz, azúcar y salsa de soja para hacer la salsa agridulce. Vierte la salsa sobre las verduras y mezcla bien.
+* 1/4 taza de kétchup
+* 1/4 taza de vinagre de arroz (o vinagre blanco)
+* 1/4 taza de azúcar
+* 1 cucharada de salsa de soja
 
-5. **Combina todo** (2-3 minutos):
-   - Vuelve a añadir el cerdo (o alternativa) al wok. Mezcla todo y cocina 2-3 minutos más hasta que esté bien caliente y la salsa espese un poco.
+#### Para Saltear:
 
-Seguir estos pasos en orden asegura que todo se cocine correctamente y los sabores se integren perfectamente.
-
----
-
-## Sugerencias para servir
-
-- **Sirve sobre arroz**: El cerdo agridulce combina perfectamente con arroz blanco al vapor o arroz frito para una comida completa.  
-  **Alternativas**: La quinoa o la coliflor pueden ser sustitutos ~~excelentes~~ del arroz tradicional si buscas una opción más saludable.
-- **Decoración**: Añade cebollino picado o semillas de sésamo para más sabor y una presentación atractiva.
-- **Platos acompañantes**: Puedes servirlo junto a rollitos de primavera o una ensalada ligera para una experiencia más completa.
-
-Estas sugerencias realzan la comida y la hacen más agradable.
+* 1 cucharada de aceite vegetal
+* 1 pimiento (en trozos)
+* 1 cebolla (en trozos)
+* 1/2 taza de piña (fresca o enlatada)
+* Opcional: 1 zanahoria en rodajas
 
 ---
 
-## Consejos para resolver problemas
+### 🔄 Sustituciones y Variantes de Ingredientes
 
-Si tienes problemas al cocinar, aquí tienes soluciones a los más comunes:
+La receta permite sustituciones flexibles para adaptarse a restricciones dietéticas, preferencias o disponibilidad.
 
-1. **El cerdo está seco y duro**:
-   - **Causa**: Cocción excesiva.
-   - **Solución**: Cocina solo hasta que esté dorado; terminará de cocinarse al mezclarlo con la salsa.
-
-2. **La salsa está demasiado espesa**:
-   - **Causa**: Demasiada maicena o poco líquido.
-   - **Solución**: Añade un poco de agua o vinagre para aligerarla.
-
-3. **Las verduras están blandas**:
-   - **Causa**: Cocción demasiado larga.
-   - **Solución**: Saltea rápidamente a fuego alto para mejores resultados.
-
-4. **El sabor no está equilibrado**:
-   - **Causa**: Falta de equilibrio entre dulce y ácido.
-   - **Solución**: Ajusta añadiendo más azúcar o vinagre al gusto.
-
-Estos consejos te ayudarán a solucionar problemas comunes y asegurar que tu plato quede delicioso.
+| Ingrediente Original | Alternativas                               | Notas                                         |
+| -------------------- | ------------------------------------------ | --------------------------------------------- |
+| Lomo de cerdo        | Pollo, tofu, champiñones, tempeh, seitán   | Apto para versiones vegetarianas/veganas      |
+| Piña                 | Mango, omitir                              | Cambia el dulzor; el mango aporta un toque tropical |
+| Pimiento             | Brócoli, calabacín, tirabeques             | Añade color y nutrición                       |
+| Arroz blanco         | Quinoa, arroz de coliflor                  | Sustituciones bajas en carbohidratos o sin gluten |
 
 ---
 
-## Riesgos y alternativas
+### 🌶️ Mejoras Opcionales para Amantes del Picante
 
-Al cocinar cerdo agridulce, hay algunos riesgos a tener en cuenta y estrategias para mitigarlos:
+| Opción              | Descripción                                         |
+| ------------------- | --------------------------------------------------- |
+| Añadir chile picado | Chiles frescos rojos o verdes durante el salteado   |
+| Usar salsa picante  | Mezclar en la salsa agridulce                       |
+| Decorar             | Jalapeños en rodajas, hojuelas de chile o aceite picante |
 
-### Riesgos potenciales
-
-1. **Desequilibrio de sabor**: La salsa puede quedar demasiado dulce o demasiado ácida.
-    - **Cómo mitigarlo**:  
-        1. Antes de añadir la salsa al plato, pruébala para evaluar el equilibrio.
-        2. Si está muy dulce, añade un poco de vinagre y mezcla bien.
-        3. Si está muy ácida, añade un poco más de azúcar y remueve.
-        4. Prueba después de cada ajuste hasta lograr el sabor deseado.
-        5. Cuando estés satisfecho, añade la salsa al plato.
-
-2. **Falta de ingredientes**: Puede que no tengas todos los ingredientes.
-   - **Cómo mitigarlo**:  
-        1. Revisa la lista de ingredientes antes de empezar.
-        2. Identifica los que te faltan.
-        3. Consulta la sección "Alternativas" para sustituciones adecuadas (por ejemplo, usa pollo, tofu o champiñones en vez de cerdo; cambia las verduras por brócoli o guisantes chinos).
-        4. Prepara los ingredientes alternativos igual que los originales (por ejemplo, marina el pollo o tofu como el cerdo).
-        5. Ajusta los tiempos de cocción según el ingrediente para asegurar la textura adecuada.
-        6. Prueba y ajusta los condimentos si es necesario, ya que algunas alternativas absorben el sabor de manera diferente.
-
-3. **Sobre-cocción**: Los ingredientes, especialmente el cerdo, pueden quedar duros si se cocinan demasiado.
-   - **Cómo mitigarlo**: 
-        1. Vigila el proceso de cocción, especialmente al freír o saltear el cerdo.
-        2. Usa un temporizador según los tiempos recomendados (por ejemplo, 5-7 minutos para el cerdo, 3-4 minutos para las verduras).
-        3. Usa fuego medio-alto y no dejes la sartén sin supervisión.
-        4. Comprueba el punto de cocción cortando un trozo; debe estar cocido pero jugoso.
-        5. Retira los ingredientes del fuego en cuanto alcancen la textura deseada.
-        6. Si tienes dudas, deja el cerdo un poco crudo y termina de cocinarlo al mezclarlo con la salsa.
-
-### Planes alternativos
-
-- **Si la salsa no queda bien**:  
-    Si la salsa no está bien, sigue estos pasos para ajustarla:
-
-    1. **Prueba la salsa**: Antes de hacer cambios, prueba una pequeña cantidad para ver si está muy dulce, ácida o espesa.
-    2. **Ajusta la consistencia**:
-        - Si está muy espesa, añade un poco de agua y mezcla bien. Repite hasta lograr la textura deseada.
-    3. **Equilibra los sabores**:
-        - Si está muy dulce, añade un poco de vinagre, mezcla y prueba de nuevo.
-        - Si está muy ácida, añade un poco más de azúcar, remueve y prueba.
-        - Haz los ajustes poco a poco, probando cada vez.
-    4. **Deja hervir brevemente**: Deja que la salsa hierva 1–2 minutos tras los ajustes para que los sabores se integren.
-    5. **Sirve con salsas extra**: Ofrece salsa de soja, salsa picante u otros condimentos para que cada comensal ajuste su porción.
-
-    Así podrás equilibrar la salsa y asegurar un buen resultado.
-
-- **Si el plato no sale como esperabas**:   
-    Si el sabor o la textura no son los esperados, puedes transformar el plato en un salteado. Así:
-
-    1. **Evalúa el plato**: Prueba y revisa la textura. Identifica qué está mal: sabor, textura o ambos.
-    2. **Prepara más verduras**: Corta verduras extra como brócoli, guisantes chinos, zanahorias o calabacín para añadir frescura y volumen.
-    3. **Calienta el wok o sartén**: Añade un poco de aceite y calienta a fuego medio-alto.
-    4. **Saltea las verduras nuevas**: Añádelas y saltea 2–4 minutos hasta que estén tiernas.
-    5. **Combina con el plato original**: Añade el cerdo agridulce (o su alternativa) junto con las verduras.
-    6. **Ajusta la salsa**: Prueba la salsa de nuevo. Si es necesario, añade salsa de soja, vinagre o azúcar para equilibrar. Añade agua si está muy espesa.
-    7. **Mezcla y calienta**: Remueve todo y cocina 2–3 minutos más hasta que esté bien caliente y combinado.
-    8. **Sirve sobre arroz**: Sirve el salteado sobre arroz al vapor o el grano que prefieras.
-
-    Así puedes renovar el plato y lograr una comida satisfactoria aunque el original no haya salido perfecto.
-
-Conociendo estos riesgos y teniendo planes alternativos, puedes mejorar tu experiencia en la cocina y disfrutar tu cerdo agridulce con confianza.
+*Si se prepara para un grupo o personas sensibles al picante, ofrezca los acompañamientos picantes por separado para mantener la receta base neutra.*
 
 ---
 
-## Conclusión
+## 🔧 Procedimiento
 
-¡Ahora sabes cómo preparar cerdo agridulce chino desde cero! Con los utensilios, ingredientes y técnicas adecuados, puedes disfrutar este clásico en casa. Siéntete libre de experimentar con las alternativas sugeridas según tu gusto. Si tienes problemas, consulta esta guía o busca ayuda en comunidades de cocina. ¡Disfruta tu aventura culinaria!
+### Preparación
 
-### Recursos adicionales
+1. **Marinar el Cerdo** (15–30 min)
 
-- [Más recetas chinas](https://uk.lkk.com/recipes)
-- [Métodos esenciales de cocina china](https://www.orientalmart.co.uk/blog/cooking-methods-chinese-cuisine)
+   * Mezclar el cerdo, la salsa de soja y la maicena en un bol.
+   * Dejar reposar para ablandar.
+
+2. **Picar Verduras** (10 min)
+
+   * Cortar el pimiento, la cebolla y la zanahoria opcional.
+   * Escurrir la piña si es enlatada.
 
 ---
 
-# Sobre este documento
+### Cocción
 
-Este documento está diseñado para demostrar cómo la documentación técnica puede ser clara, accesible y útil, incluso para quienes no tienen experiencia técnica. Al explorar tanto el contenido como el código fuente markdown, los profesionales no técnicos pueden familiarizarse con la estructura y sintaxis comúnmente usadas en la redacción técnica. El objetivo es mostrar que crear y entender documentación técnica no tiene por qué ser intimidante, y que markdown es un formato sencillo y accesible para organizar información.
+1. **Calentar el Aceite**
 
-### Cómo ver y editar este documento localmente
+   * Calentar a fuego medio-alto en wok o sartén.
 
-Para explorar el código fuente markdown y experimentar con la edición, puedes clonar este repositorio en tu computadora local. Sigue estos pasos según tu sistema operativo:
+2. **Freír el Cerdo** (5–7 min)
 
-#### 1. Instala Git
+   * Cocinar hasta que esté dorado y bien hecho.
+   * Retirar con espumadera.
+
+3. **Saltear Verduras** (3–4 min)
+
+   * Añadir pimiento, cebolla y zanahoria.
+   * Saltear hasta que estén tiernos pero crujientes.
+
+4. **Añadir Salsa y Piña** (2 min)
+
+   * Mezclar los ingredientes de la salsa en un bol y verter en el wok.
+   * Remover junto con la piña.
+
+5. **Combinar y Terminar** (2–3 min)
+
+   * Volver a añadir el cerdo al wok.
+   * Calentar y espesar la salsa.
+
+---
+
+## 🔎 Validación
+
+* Revisión visual: colores vibrantes y salsa brillante.
+* Textura: cerdo tierno, verduras crujientes.
+* Sabor: equilibrio entre dulce y ácido.
+* Opcional: Verificar temperatura interna del cerdo (\~63°C o 145°F).
+
+---
+
+## 🚨 Riesgos y Mitigaciones
+
+### Riesgo 1: **Desequilibrio de Sabor**
+
+* **Mitigación**: Probar la salsa antes de usar. Ajustar azúcar o vinagre.
+
+### Riesgo 2: **Cerdo Sobre Cocido**
+
+* **Mitigación**: Respetar el tiempo de cocción; dejar reposar brevemente tras freír.
+
+### Riesgo 3: **Ingredientes No Disponibles**
+
+* **Mitigación**: Usar las alternativas sugeridas.
+
+---
+
+## 🔁 Planes de Contingencia
+
+* **Si la salsa tiene mala consistencia**: Añadir agua (si está muy espesa) o reducir más (si está muy líquida).
+* **Si el sabor general no es bueno**: Añadir condimentos como salsa de soja o salsa picante.
+* **Si el plato resulta insípido**: Convertir en un salteado de verduras mixtas con más salsa y vegetales.
+
+---
+
+## 🍽️ Sugerencias para Servir
+
+* **Base Recomendada**: Arroz jazmín o blanco al vapor
+* **Opción Saludable**: Quinoa o arroz de coliflor
+* **Ideas para Decorar**: Cebollín picado, semillas de sésamo, aceite picante
+* **Guarniciones Sugeridas**: Rollitos de primavera, sopa de huevo, ensalada de pepino
+
+---
+
+## 🧰 Resolución de Problemas
+
+| Síntoma             | Causa Probable   | Solución                  |
+| ------------------- | ---------------- | ------------------------- |
+| Cerdo seco          | Sobre cocción    | Reducir tiempo de fritura |
+| Salsa muy espesa    | Demasiada maicena| Añadir agua               |
+| Verduras blandas    | Sobre cocción    | Saltear a fuego alto      |
+| Sabor plano         | Mal equilibrio   | Ajustar azúcar o vinagre  |
+
+---
+
+## 📜 Registro de Cambios
+
+| Fecha      | Cambio                              | Autor         |
+| ---------- | ----------------------------------- | ------------- |
+| 2025-06-07 | Creación inicial                    | Samuel Chan   |
+| 2025-06-09 | Reformateado como runbook técnico   | Samuel Chan   |
+
+---
+---
+
+# 📘 Sobre Este Documento
+
+Este documento está diseñado para **educar a gerentes de operaciones** y **redactores técnicos** sobre cómo tareas cotidianas—como una receta de cocina—pueden estructurarse usando el **formato de runbook** para apoyar operaciones de servicio fluidas y repetibles.
+
+Al detallar claramente insumos, procedimientos, riesgos y validaciones, los runbooks reducen la ambigüedad y el error humano. Este ejemplo demuestra cómo un enfoque estructurado mejora la claridad y la consistencia, incluso fuera de contextos tradicionales de TI o DevOps.
+
+---
+
+## 📥 Cómo Usar o Editar Este Runbook
+
+### Para explorar o adaptar este runbook:
+
+1. **Clonar el Repositorio**
+
+   ```sh
+   git clone https://github.com/ccaecha/sweet-and-sour-pork.git
+   ```
+
+2. **Abrir el Archivo**  
+   Usa un editor markdown como **VS Code**, **Typora** o el visor integrado de GitHub.
+
+3. **Editar y Aprender**  
+   Revisa el formato, prueba ediciones y explora la sintaxis markdown para mejorar tus habilidades en documentación técnica.
+
+### Para Editar Este Documento Localmente
+
+Para explorar el código fuente markdown y experimentar con la edición, puedes clonar este repositorio en tu computadora local. Sigue los pasos según tu sistema operativo:
+
+#### 1. Instalar Git
 
 **Windows:**
 - Descarga Git desde [git-scm.com](https://git-scm.com/download/win).
@@ -276,8 +251,8 @@ Para explorar el código fuente markdown y experimentar con la edición, puedes 
 - Tras la instalación, abre el **Símbolo del sistema** (presiona `Win + R`, escribe `cmd` y pulsa Enter).
 
 **macOS:**
-- Abre la aplicación **Terminal** (en Aplicaciones > Utilidades).
-- Escribe `git --version`. Si Git no está instalado, se te pedirá instalar las herramientas de línea de comandos de Xcode. Sigue las instrucciones en pantalla.
+- Abre la app **Terminal** (en Aplicaciones > Utilidades).
+- Escribe `git --version`. Si Git no está instalado, se te pedirá instalar las Xcode Command Line Tools. Sigue las instrucciones en pantalla.
 
 **Linux (Ubuntu/Debian):**
 - Abre la **Terminal**.
@@ -287,41 +262,25 @@ Para explorar el código fuente markdown y experimentar con la edición, puedes 
     sudo apt install git
     ```
 
-#### 2. Clona el repositorio
+#### 2. Clonar el Repositorio
 
 En tu terminal o símbolo del sistema, ejecuta:
 ```sh
 git clone https://github.com/ccaecha/sweet-and-sour-pork.git
 ```
-Reemplaza `your-username` por tu usuario u organización de GitHub.
+Reemplaza `your-username` por el usuario u organización de GitHub correspondiente.
 
-#### 3. Abre y edita el archivo markdown
+#### 3. Abrir y Editar el Archivo Markdown
 
 - Navega a la carpeta clonada:
     ```sh
     cd recipe/sweet-and-sour-pork
     ```
-- Abre `README.md` con el editor de texto que prefieras (por ejemplo, Notepad, VSCode, Sublime Text).
+- Abre `README.md` con el editor de texto de tu preferencia (por ejemplo, Notepad, VSCode, Sublime Text).
 
-#### 4. Explora y aprende
+#### 4. Explorar y Aprender
 
-- Revisa la sintaxis y estructura de markdown.
-- Haz pequeños cambios y visualiza los resultados usando un visor o editor de markdown.
+- Revisa la sintaxis y estructura markdown.
+- Prueba pequeñas ediciones y visualiza los resultados usando un visor o editor markdown.
 
-Siguiendo estos pasos, podrás familiarizarte tanto con el proceso de trabajar con documentación técnica como con los conceptos básicos de markdown.
-
----
-### Nota al pie
-
-> Este documento fue preparado con VSCode (Visual Studio Code). Puedes descargarlo en https://code.visualstudio.com/
-
-```markdown annotate
-# Este documento utiliza el formato `markdown`.
-
-> **Nota:**  
-> Aunque este documento está alojado en GitHub y GitHub ofrece un soporte robusto para mostrar archivos markdown, ten en cuenta que no todas las características usadas aquí son universalmente compatibles. Algunos elementos pueden no mostrarse como se espera en GitHub, mientras que otros son específicos de la implementación de markdown de GitHub y pueden no funcionar en otros visores o editores.
-
-Para más información sobre `markdown`, consulta [The Markdown Guide](https://www.markdownguide.org/).
-```
-
-Para más información sobre Octicons, consulta el [sitio de Octicons](https://primer.style/octicons/).
+Siguiendo estos pasos, podrás familiarizarte tanto con el proceso de trabajo con documentación técnica como con los conceptos básicos del formato markdown.

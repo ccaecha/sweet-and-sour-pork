@@ -1,287 +1,253 @@
-# Recette du *porc aigre-doux* chinois à l’occidentale 🍍🥢
+# 🛠️ Runbook : Préparation du Porc Aigre-Doux (Style Chinois Occidentalisé)
+
+**ID du Runbook :** `RB-RECIPE-001`  
+**Domaine de service :** Opérations culinaires  
+**Auteur :** Samuel Chan  
+**Créé le :** 2025-06-07  
+**Dernière révision :** 2025-06-09
 
 ---
-Auteur : Samuel Chan  
-Créé le : 2025-06-07
----
 
-Le porc aigre-doux est un plat apprécié pour ses couleurs vives et son équilibre de saveurs. Originaire de la cuisine cantonaise, ce plat est devenu un incontournable des restaurants chinois à travers le monde, notamment dans les pays occidentaux. L’association de porc tendre, de légumes croquants et d’une sauce acidulée en fait un favori pour beaucoup.
+## 📚 Contexte
 
-![Porc aigre-doux](img/sweet-and-sour-pork.png)
+### Brève histoire et origines
+Le porc aigre-doux trouve ses racines dans la cuisine cantonaise, notamment dans le sud de la Chine où les saveurs sucrées et acidulées sont courantes. Au fil du temps, ce plat a gagné en popularité mondiale, notamment après avoir été introduit auprès des publics occidentaux par les immigrants chinois au XXe siècle. Aujourd’hui, il s’agit de l’un des plats chinois les plus reconnaissables et les plus servis dans le monde.
 
-## Brève histoire et origines
+![Porc Aigre-Doux](img/sweet-and-sour-pork.png)
 
-Les racines du porc aigre-doux remontent au sud de la Chine, où l’utilisation de saveurs sucrées et acidulées est courante dans de nombreux plats. Le plat a gagné en popularité au XXe siècle, notamment après que des immigrants chinois l’ont introduit auprès du public occidental. Il est souvent associé aux occasions festives et aux réunions de famille, ce qui en fait un choix populaire lors des célébrations.
-
-### Pourquoi le mange-t-on ?
-
-Le porc aigre-doux est apprécié pour son profil de saveur unique, qui combine la douceur du sucre et du ketchup à l’acidité du vinaigre. Cet équilibre rehausse non seulement le goût, mais rend aussi le plat attrayant grâce à ses couleurs éclatantes. Il est couramment servi lors du Nouvel An chinois et d’autres fêtes, symbolisant la chance et le bonheur.
+### Pourquoi ce plat est-il apprécié ?
+Le porc aigre-doux séduit par ses couleurs vives, le contraste de textures et l’équilibre entre l’acidité du vinaigre et la douceur du sucre et du ketchup. Au-delà du goût, il porte aussi une symbolique culturelle, notamment lors des fêtes comme le Nouvel An chinois, où il représente le bonheur et la bonne fortune.
 
 ### Anecdotes
+Popularité mondiale : L’un des plats les plus commandés dans les restaurants chinois, surtout aux États-Unis et au Canada.
 
-- **Variantes** : Différentes régions proposent leur propre version du porc aigre-doux, en utilisant d’autres protéines ou légumes.
-- **Popularité** : Ce plat est l’un des plus commandés dans les restaurants chinois à travers le monde, notamment aux États-Unis et au Canada.
-- **Signification culturelle** : Le plat représente l’harmonie des saveurs, un concept fondamental dans la cuisine chinoise.
+Variantes régionales : Certaines versions remplacent le porc par du poulet, du tofu ou des fruits de mer, selon les préférences locales ou les besoins alimentaires.
 
----
-
-## Table des matières
-
-1. [Prérequis](#prérequis)
-2. [Ingrédients](#ingrédients)
-3. [Étapes de préparation](#étapes-de-préparation)
-4. [Instructions de cuisson](#instructions-de-cuisson)
-5. [Suggestions de service](#suggestions-de-service)
-6. [Conseils de dépannage](#conseils-de-dépannage)
-7. [Risques et solutions de repli](#risques-et-solutions-de-repli)
+Symbolisme : L’harmonie des saveurs sucrées et acidulées reflète un principe clé de la cuisine chinoise : l’équilibre et l’unité.
 
 ---
 
-## Liste des tâches
+## 📘 Objectif
 
-- [ ] Rassembler tous les ingrédients et ustensiles de cuisine
-- [ ] Préparer les ingrédients
-- [ ] Suivre les instructions de cuisson
-- [ ] Servir et déguster !
+Ce runbook décrit la procédure standard pour préparer une version occidentalisée du porc aigre-doux chinois. Il vise à garantir des résultats constants grâce à une exécution étape par étape et à démontrer comment une documentation structurée peut simplifier des processus complexes, même en cuisine.
 
 ---
 
-## Prérequis
+## 🔍 Portée
 
-Avant de commencer, rassemblez les ustensiles suivants :
-
-### Ustensiles de cuisine
-
-| Ustensile                | Utilité                                      |
-|--------------------------|----------------------------------------------|
-| **Wok ou grande poêle**  | Idéal pour le sauté                          |
-| **Planche à découper**   | Essentielle pour la découpe                  |
-| **Couteau de chef**      | Pour des coupes nettes                       |
-| **Saladier**             | Pour mariner et mélanger les sauces          |
-| **Tasses et cuillères doseuses** | Pour des quantités précises           |
-| **Écumoire**             | Pour retirer l’excès d’huile                 |
-| **Assiette ou plat de service** | Pour présenter le plat                 |
-| **Pinces ou cuillère en bois** | Pour mélanger et retourner les ingrédients |
-
-Avoir ces ustensiles à portée de main rendra la préparation plus fluide et agréable.
+Ce runbook s’applique à la préparation alimentaire à la maison ou en contexte pédagogique. Il cible les cuisiniers débutants à intermédiaires et convient aux régimes carnés ou végétariens avec les substitutions appropriées.
 
 ---
 
-## Ingrédients
+## ✅ Prérequis
 
-Voici ce qu’il vous faut pour préparer le porc aigre-doux :
+### Équipement nécessaire
 
-### Pour la marinade du porc :
-- 500g de filet de porc (coupé en morceaux)
-- 1 cuillère à soupe de sauce soja
-- 1 cuillère à soupe de fécule de maïs
-
-### Pour la sauce aigre-douce :
-- 60 ml de ketchup
-- 60 ml de vinaigre de riz (ou vinaigre blanc)
-- 60 ml de sucre
-- 1 cuillère à soupe de sauce soja
-
-### Pour le sauté :
-- 1 cuillère à soupe d’huile végétale (pour la cuisson du porc)
-- 1 poivron (rouge ou vert, coupé en morceaux)
-- 1 oignon (coupé en morceaux)
-- 120 ml d’ananas en morceaux (frais ou en conserve)
-- Optionnel : 1 carotte (coupée en rondelles)
-
-### Alternatives :
-- **Porc** : Remplacez par du poulet, du bœuf, du tofu ou des **champignons** pour une version végétarienne. Pour un plat 100% végétal, utilisez du **tempeh** ou du **seitan**.
-- **Ananas** : Vous pouvez utiliser de la **mangue** ou omettre le fruit pour un goût différent.
-- **Légumes** : Ajoutez du **brocoli**, des **pois mange-tout** ou de la **courgette** pour plus de nutrition et de texture.
-
-### Pour les amateurs de piquant :
-- **Relèver le plat** : Ajoutez du **piment frais** haché ou un peu de **sauce pimentée** à la sauce aigre-douce.
-- **Garniture** : Parsemez de **jalapeños** ou de **flocons de piment rouge** pour plus de piquant.
-
-Chaque ingrédient contribue à la saveur caractéristique du plat, et ces alternatives permettent d’adapter la recette à vos préférences.
+| Outil                  | Utilité                                 |
+| ---------------------- | --------------------------------------- |
+| Wok ou grande poêle    | Sauté des ingrédients                   |
+| Planche à découper     | Découpe des légumes et de la viande     |
+| Couteau de chef        | Coupes précises pour une cuisson égale  |
+| Saladier               | Marinade et mélange                     |
+| Tasses/cuillères doseuses | Mesure précise des ingrédients      |
+| Écumoire               | Retirer le porc frit                    |
+| Plat de service        | Présentation du plat final               |
+| Pinces ou cuillère en bois | Mélange pendant la cuisson         |
 
 ---
 
-## Étapes de préparation
+## 📦 Ingrédients
 
-1. **Faire mariner le porc** (15-30 minutes) :
-   - Dans un saladier, mélangez les morceaux de porc avec la sauce soja et la fécule de maïs.
-   - Mélangez bien et laissez mariner au moins 15 à 30 minutes pour attendrir la viande et la parfumer.
+### Ingrédients principaux
 
-   > [!NOTE]  
-   > Si vous utilisez du poulet, du tofu ou des champignons, suivez le même procédé de marinade.
+#### Marinade pour le porc :
 
-2. **Préparer les légumes** (10 minutes) : [^1]
-   - Pendant que le porc marine, coupez le poivron et l’oignon en morceaux. Si vous utilisez une carotte, tranchez-la finement pour une cuisson homogène.
-   - Égouttez l’ananas si vous utilisez des morceaux en conserve.
+* 500 g de filet de porc (en morceaux)
+* 1 c. à soupe de sauce soja
+* 1 c. à soupe de fécule de maïs
 
-   **Alternatives** : Ajoutez d’autres légumes comme le brocoli, les pois mange-tout ou les champignons pour enrichir le plat.
+#### Sauce aigre-douce :
 
-[^1]: Préparer les ingrédients à l’avance accélère la cuisson et rend le processus plus organisé.
+* 1/4 tasse de ketchup
+* 1/4 tasse de vinaigre de riz (ou vinaigre blanc)
+* 1/4 tasse de sucre
+* 1 c. à soupe de sauce soja
 
----
+#### Pour la cuisson :
 
-## Instructions de cuisson
-
-1. **Chauffer le wok** :
-   - Faites chauffer le wok ou la poêle à feu moyen-vif. Ajoutez l’huile et laissez chauffer jusqu’à ce qu’elle soit bien chaude.
-
-2. **Cuire le porc** (5-7 minutes) :
-   - Ajoutez le porc mariné dans l’huile chaude en une seule couche. Ne surchargez pas la poêle pour une cuisson uniforme.
-   - Faites cuire 5 à 7 minutes jusqu’à ce que le porc soit doré et cuit à cœur. Retirez-le avec l’écumoire et réservez.
-
-   **Alternatives** : Si vous utilisez des champignons, faites-les sauter 3 à 4 minutes jusqu’à ce qu’ils soient dorés et tendres.
-
-3. **Sauter les légumes** (3-4 minutes) :
-   - Dans le même wok, ajoutez un peu d’huile si besoin. Ajoutez l’oignon, le poivron et la carotte.
-   - Faites sauter 3 à 4 minutes jusqu’à ce que les légumes soient tendres mais encore croquants.
-
-4. **Ajouter l’ananas et la sauce** (2 minutes) :
-   - Ajoutez les morceaux d’ananas dans le wok.
-   - Dans un bol, mélangez le ketchup, le vinaigre, le sucre et la sauce soja pour préparer la sauce aigre-douce. Versez la sauce sur les légumes et mélangez bien.
-
-5. **Tout assembler** (2-3 minutes) :
-   - Remettez le porc (ou l’alternative) dans le wok. Mélangez et faites cuire encore 2 à 3 minutes jusqu’à ce que tout soit bien chaud et que la sauce épaississe légèrement.
-
-En suivant ces étapes, vous obtiendrez une cuisson parfaite et des saveurs bien harmonisées.
+* 1 c. à soupe d’huile végétale
+* 1 poivron (en morceaux)
+* 1 oignon (en morceaux)
+* 1/2 tasse d’ananas (frais ou en conserve)
+* Optionnel : 1 carotte en rondelles
 
 ---
 
-## Suggestions de service
+### 🔄 Substitutions et variantes
 
-- **Servir avec du riz** : Le porc aigre-doux se marie parfaitement avec du riz blanc vapeur ou du riz sauté.  
-  **Alternatives** : Le quinoa ou le chou-fleur peuvent remplacer avantageusement le riz traditionnel pour une option plus saine.
-- **Garniture** : Ajoutez de la ciboule émincée ou des graines de sésame pour plus de saveur et une belle présentation.
-- **Accompagnements** : Servez avec des rouleaux de printemps ou une salade légère pour un repas complet.
+La recette permet des substitutions pour s’adapter aux restrictions alimentaires, préférences ou disponibilités.
 
-Ces suggestions subliment le plat et rendent le repas encore plus agréable.
-
----
-
-## Conseils de dépannage
-
-Si vous rencontrez des problèmes lors de la préparation, voici quelques solutions courantes :
-
-1. **Porc sec et caoutchouteux** :
-   - **Cause** : Surcuisson du porc.
-   - **Solution** : Faites cuire juste jusqu’à ce qu’il soit doré ; il finira de cuire avec la sauce.
-
-2. **Sauce trop épaisse** :
-   - **Cause** : Trop de fécule ou pas assez de liquide.
-   - **Solution** : Ajoutez un peu d’eau ou de vinaigre pour l’alléger.
-
-3. **Légumes mous** :
-   - **Cause** : Cuisson trop longue.
-   - **Solution** : Faites sauter rapidement à feu vif pour garder le croquant.
-
-4. **Saveur déséquilibrée** :
-   - **Cause** : Manque d’équilibre entre le sucré et l’acide.
-   - **Solution** : Ajustez en ajoutant un peu plus de sucre ou de vinaigre selon votre goût.
-
-Ces conseils vous aideront à réussir votre plat à coup sûr.
+| Ingrédient d’origine | Alternatives                              | Remarques                                    |
+| -------------------- | ----------------------------------------- | -------------------------------------------- |
+| Filet de porc        | Poulet, tofu, champignons, tempeh, seitan | Convient aux versions végétariennes/véganes  |
+| Ananas               | Mangue, ou omettre                        | Modifie la douceur ; la mangue ajoute une note exotique |
+| Poivron              | Brocoli, courgette, pois mange-tout       | Ajoute couleur et nutrition                  |
+| Riz blanc            | Quinoa, riz de chou-fleur                 | Substituts faibles en glucides ou sans gluten|
 
 ---
 
-## Risques et solutions de repli
+### 🌶️ Pour les amateurs de piquant
 
-Lors de la préparation du porc aigre-doux, voici quelques risques à anticiper et comment les gérer :
+| Option               | Description                                         |
+| -------------------- | -------------------------------------------------- |
+| Ajouter du piment    | Piments frais rouges ou verts lors du sauté        |
+| Utiliser une sauce pimentée | Mélanger à la sauce aigre-douce           |
+| Garniture            | Jalapeños en rondelles, flocons de piment, huile pimentée |
 
-### Risques potentiels
-
-1. **Déséquilibre des saveurs** : La sauce peut être trop sucrée ou trop acide.
-    - **Étapes à suivre** :  
-        1. Avant d’ajouter la sauce au plat, goûtez-la pour vérifier l’équilibre.
-        2. Si elle est trop sucrée, ajoutez un peu de vinaigre et mélangez.
-        3. Si elle est trop acide, ajoutez un peu de sucre et mélangez.
-        4. Goûtez à chaque ajustement jusqu’à obtenir le bon équilibre.
-        5. Une fois satisfait, ajoutez la sauce au plat.
-
-2. **Manque d’ingrédients** : Il se peut que vous n’ayez pas tout sous la main.
-   - **Étapes à suivre** :  
-        1. Vérifiez la liste des ingrédients avant de commencer.
-        2. Identifiez ceux qui vous manquent.
-        3. Consultez la section « Alternatives » pour des substitutions (ex. : poulet, tofu, champignons à la place du porc ; autres légumes comme brocoli ou pois mange-tout).
-        4. Préparez les alternatives comme les ingrédients d’origine (ex. : marinez le poulet ou le tofu comme le porc).
-        5. Ajustez les temps de cuisson selon l’alternative choisie.
-        6. Goûtez et ajustez l’assaisonnement si besoin.
-
-3. **Surcuisson** : Les ingrédients, surtout le porc, peuvent devenir durs.
-   - **Étapes à suivre** : 
-        1. Surveillez la cuisson, surtout lors du sauté du porc.
-        2. Utilisez un minuteur selon les temps recommandés (ex. : 5-7 min pour le porc, 3-4 min pour les légumes).
-        3. Utilisez un feu moyen-vif et ne laissez pas la poêle sans surveillance.
-        4. Vérifiez la cuisson du porc en coupant un morceau : il doit être cuit mais juteux.
-        5. Retirez du feu dès que la texture est atteinte.
-        6. En cas de doute, sous-cuisez légèrement le porc et laissez-le finir de cuire avec la sauce.
-
-### Plans de secours
-
-- **Si la sauce est ratée** :  
-    Suivez ces étapes pour la rattraper :
-
-    1. **Goûtez la sauce** : Déterminez si elle est trop sucrée, trop acide ou trop épaisse.
-    2. **Ajustez la consistance** :
-        - Si elle est trop épaisse, ajoutez un peu d’eau et mélangez.
-    3. **Équilibrez les saveurs** :
-        - Trop sucrée : ajoutez un peu de vinaigre, mélangez et goûtez.
-        - Trop acide : ajoutez un peu de sucre, mélangez et goûtez.
-        - Procédez par petites touches, en goûtant à chaque fois.
-    4. **Laissez mijoter brièvement** : Laissez la sauce mijoter 1 à 2 minutes après ajustement pour bien mélanger les saveurs.
-    5. **Servez avec des sauces en plus** : Proposez de la sauce soja, du piment ou d’autres condiments à côté pour que chacun ajuste à son goût.
-
-    Ainsi, vous pourrez rééquilibrer la sauce et garantir un résultat savoureux.
-
-- **Si le plat ne donne pas le résultat attendu** :   
-    Si la saveur ou la texture ne sont pas au rendez-vous, transformez-le en sauté. Voici comment :
-
-    1. **Évaluez le plat** : Goûtez et vérifiez la texture. Identifiez ce qui ne va pas.
-    2. **Préparez des légumes supplémentaires** : Coupez du brocoli, des pois mange-tout, des carottes ou de la courgette pour apporter de la fraîcheur.
-    3. **Chauffez le wok ou la poêle** : Ajoutez un peu d’huile et faites chauffer à feu moyen-vif.
-    4. **Faites sauter les nouveaux légumes** : 2 à 4 minutes jusqu’à ce qu’ils soient juste tendres.
-    5. **Ajoutez le plat d’origine** : Mélangez le porc aigre-doux (ou son alternative) avec les légumes.
-    6. **Ajustez la sauce** : Goûtez à nouveau. Ajoutez un peu de sauce soja, de vinaigre ou de sucre si besoin. Ajoutez un peu d’eau si la sauce est trop épaisse.
-    7. **Mélangez et réchauffez** : Faites cuire encore 2 à 3 minutes jusqu’à ce que tout soit bien chaud.
-    8. **Servez avec du riz** : Dressez le sauté sur du riz vapeur ou une autre céréale de votre choix.
-
-    Ainsi, vous pourrez transformer le plat et obtenir un repas satisfaisant même si la première version n’était pas parfaite.
-
-En anticipant ces risques et en ayant des solutions de repli, vous pourrez cuisiner le porc aigre-doux sereinement et en profiter pleinement.
+*Pour un public large ou sensible, proposer les garnitures épicées à part afin de garder la recette de base neutre.*
 
 ---
 
-## Conclusion
+## 🔧 Procédure
 
-Vous savez désormais préparer le porc aigre-doux chinois maison ! Avec les bons ustensiles, ingrédients et techniques, vous pourrez savourer ce classique chez vous. N’hésitez pas à tester les alternatives proposées selon vos goûts. En cas de problème, reportez-vous à ce guide ou demandez conseil à des communautés culinaires. Bonne aventure gourmande !
+### Préparation
 
-### Ressources complémentaires
+1. **Mariner le porc** (15–30 min)
+   * Mélanger le porc, la sauce soja et la fécule dans un saladier.
+   * Laisser reposer pour attendrir.
 
-- [Plus de recettes chinoises](https://uk.lkk.com/recipes)
-- [Techniques de cuisson essentielles de la cuisine chinoise](https://www.orientalmart.co.uk/blog/cooking-methods-chinese-cuisine)
+2. **Découper les légumes** (10 min)
+   * Couper le poivron, l’oignon et la carotte (optionnel).
+   * Égoutter l’ananas si en conserve.
 
 ---
 
-# À propos de ce document
+### Cuisson
 
-Ce document vise à montrer que la documentation technique peut être claire, accessible et utile, même pour les non-techniciens. En explorant à la fois le contenu et le code source markdown, les professionnels non techniques peuvent se familiariser avec la structure et la syntaxe courantes de la rédaction technique. L’objectif est de démontrer que créer et comprendre de la documentation technique n’a rien d’intimidant, et que le markdown est un format simple et accessible pour organiser l’information.
+1. **Chauffer l’huile**
+   * Chauffer à feu moyen-vif dans le wok ou la poêle.
 
-### Comment consulter et modifier ce document localement
+2. **Frire le porc** (5–7 min)
+   * Cuire jusqu’à ce qu’il soit doré et bien cuit.
+   * Retirer avec l’écumoire.
 
-Pour explorer le code source markdown et vous entraîner à l’éditer, vous pouvez cloner ce dépôt sur votre ordinateur. Suivez les étapes ci-dessous selon votre système d’exploitation :
+3. **Sauter les légumes** (3–4 min)
+   * Ajouter poivron, oignon et carotte.
+   * Sauter jusqu’à ce qu’ils soient tendres mais croquants.
+
+4. **Ajouter la sauce et l’ananas** (2 min)
+   * Mélanger les ingrédients de la sauce et verser dans le wok.
+   * Ajouter l’ananas et mélanger.
+
+5. **Assembler et finir** (2–3 min)
+   * Remettre le porc dans le wok.
+   * Réchauffer et épaissir la sauce.
+
+---
+
+## 🔎 Validation
+
+* Contrôle visuel : couleurs vives, sauce brillante.
+* Texture : porc tendre, légumes croquants.
+* Goût : équilibre entre le sucré et l’acidulé.
+* Optionnel : vérifier la température interne du porc (~63°C).
+
+---
+
+## 🚨 Risques et mesures
+
+### Risque 1 : **Déséquilibre des saveurs**
+* **Mesure :** Goûter la sauce avant usage. Ajuster sucre ou vinaigre.
+
+### Risque 2 : **Porc trop cuit**
+* **Mesure :** Respecter le temps de cuisson ; laisser reposer après friture.
+
+### Risque 3 : **Ingrédients indisponibles**
+* **Mesure :** Utiliser les alternatives proposées.
+
+---
+
+## 🔁 Plans de secours
+
+* **Si la sauce est trop épaisse :** Ajouter de l’eau.
+* **Si la sauce est trop liquide :** Réduire davantage.
+* **Si le goût est fade :** Ajouter sauce soja ou sauce pimentée.
+* **Si le plat manque d’intérêt :** Transformer en sauté de légumes avec plus de sauce.
+
+---
+
+## 🍽️ Suggestions de service
+
+* **Base recommandée :** Riz jasmin ou riz blanc vapeur
+* **Option santé :** Quinoa ou riz de chou-fleur
+* **Idées de garniture :** Oignon vert ciselé, graines de sésame, huile pimentée
+* **Accompagnements suggérés :** Rouleaux de printemps, soupe aux œufs, salade de concombre
+
+---
+
+## 🧰 Dépannage
+
+| Symptôme             | Cause probable   | Solution                   |
+| -------------------- | ----------------| -------------------------- |
+| Porc sec             | Trop cuit        | Réduire le temps de friture|
+| Sauce trop épaisse   | Trop de fécule   | Ajouter de l’eau           |
+| Légumes mous         | Trop cuits       | Sauter à feu vif           |
+| Goût fade            | Déséquilibre     | Ajuster sucre ou vinaigre  |
+
+---
+
+## 📜 Journal des modifications
+
+| Date       | Modification                      | Auteur         |
+| ---------- | --------------------------------- | -------------- |
+| 2025-06-07 | Création initiale                 | Samuel Chan    |
+| 2025-06-09 | Reformatté en runbook technique   | Samuel Chan    |
+
+---
+---
+
+# 📘 À propos de ce document
+
+Ce document vise à **sensibiliser les responsables opérationnels** et **rédacteurs techniques** à la manière dont des tâches quotidiennes—comme une recette de cuisine—peuvent être structurées au format **runbook** pour garantir des opérations fluides et reproductibles.
+
+En détaillant clairement les entrées, procédures, risques et validations, les runbooks réduisent l’ambiguïté et les erreurs humaines. Cet exemple montre comment une approche structurée améliore la clarté et la cohérence, même en dehors de l’IT ou du DevOps.
+
+---
+
+## 📥 Comment utiliser ou modifier ce runbook
+
+### Pour explorer ou adapter ce runbook :
+
+1. **Cloner le dépôt**
+
+   ```sh
+   git clone https://github.com/ccaecha/sweet-and-sour-pork.git
+   ```
+
+2. **Ouvrir le fichier**  
+   Utilisez un éditeur markdown comme **VS Code**, **Typora** ou le visualiseur intégré de GitHub.
+
+3. **Modifier et apprendre**  
+   Examinez la mise en forme, essayez des modifications et explorez la syntaxe markdown pour développer vos compétences en documentation technique.
+
+### Pour modifier ce document localement
+
+Pour explorer la source markdown et expérimenter l’édition, clonez ce dépôt sur votre ordinateur. Suivez les étapes selon votre système d’exploitation :
 
 #### 1. Installer Git
 
-**Windows :**
+**Windows :**
 - Téléchargez Git depuis [git-scm.com](https://git-scm.com/download/win).
-- Lancez l’installeur et suivez les instructions par défaut.
-- Après l’installation, ouvrez l’**Invite de commandes** (appuyez sur `Win + R`, tapez `cmd` et validez).
+- Lancez l’installateur et suivez les instructions par défaut.
+- Après installation, ouvrez l’**Invite de commandes** (appuyez sur `Win + R`, tapez `cmd`, puis Entrée).
 
-**macOS :**
+**macOS :**
 - Ouvrez l’application **Terminal** (Applications > Utilitaires).
 - Tapez `git --version`. Si Git n’est pas installé, vous serez invité à installer les outils de ligne de commande Xcode. Suivez les instructions à l’écran.
 
-**Linux (Ubuntu/Debian) :**
+**Linux (Ubuntu/Debian) :**
 - Ouvrez le **Terminal**.
-- Exécutez :  
+- Exécutez :  
     ```sh
     sudo apt update
     sudo apt install git
@@ -289,40 +255,23 @@ Pour explorer le code source markdown et vous entraîner à l’éditer, vous po
 
 #### 2. Cloner le dépôt
 
-Dans votre terminal ou invite de commandes, exécutez :
+Dans votre terminal ou invite de commandes, exécutez :
 ```sh
 git clone https://github.com/ccaecha/sweet-and-sour-pork.git
 ```
-Remplacez `your-username` par votre nom d’utilisateur ou organisation GitHub.
+Remplacez `your-username` par le nom d’utilisateur ou l’organisation GitHub approprié.
 
-#### 3. Ouvrir et éditer le fichier Markdown
+#### 3. Ouvrir et modifier le fichier markdown
 
-- Accédez au dossier cloné :
+- Accédez au dossier cloné :
     ```sh
     cd recipe/sweet-and-sour-pork
     ```
-- Ouvrez `README.md` avec l’éditeur de texte de votre choix (ex. : Notepad, VSCode, Sublime Text).
+- Ouvrez `README.md` avec l’éditeur de texte de votre choix (Notepad, VSCode, Sublime Text, etc.).
 
 #### 4. Explorer et apprendre
 
-- Examinez la syntaxe et la structure markdown.
-- Essayez de faire quelques modifications et visualisez le résultat avec un éditeur markdown.
+- Analysez la syntaxe et la structure markdown.
+- Essayez de petites modifications et visualisez le résultat avec un éditeur ou visualiseur markdown.
 
 En suivant ces étapes, vous vous familiariserez avec la documentation technique et les bases du markdown.
-
----
-### Note de bas de page
-
-> Ce document a été préparé avec VSCode (Visual Studio Code). Vous pouvez le télécharger sur https://code.visualstudio.com/
-
-```markdown annotate
-# Ce document utilise le format `markdown`.
-
-> **Remarque :**  
-> Bien que ce document soit hébergé sur GitHub, qui prend en charge le rendu des fichiers markdown, toutes les fonctionnalités utilisées ici ne sont pas universellement supportées. Certains éléments peuvent ne pas s’afficher comme prévu sur GitHub, tandis que d’autres sont spécifiques à l’implémentation markdown de GitHub et peuvent ne pas fonctionner ailleurs.
-
-Pour plus d’informations sur le `markdown`, consultez [Le Guide Markdown](https://www.markdownguide.org/).
-```
-
-Pour en savoir plus sur Octicons, consultez le [site Octicons](https://primer.style/octicons/).
-

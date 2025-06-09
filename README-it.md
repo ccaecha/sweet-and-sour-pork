@@ -1,283 +1,259 @@
-# Ricetta per *Sweet and Sour Pork* Cinese all’occidentale 🍍🥢
+# 🛠️ Runbook: Preparazione del Maiale in Agrodolce (Stile Cinese Occidentale)
+
+**ID Runbook:** `RB-RECIPE-001`  
+**Area di Servizio:** Operazioni Culinarie  
+**Autore:** Samuel Chan  
+**Creato il:** 2025-06-07  
+**Ultima Revisione:** 2025-06-09
 
 ---
-Autore: Samuel Chan  
-Creato il: 2025-06-07
----
 
-Il Sweet and Sour Pork è un piatto amato, noto per i suoi colori vivaci e il delizioso equilibrio di sapori. Originario della cucina cantonese, questo piatto è diventato un classico nei ristoranti cinesi di tutto il mondo, soprattutto nei paesi occidentali. La combinazione di maiale tenero, verdure croccanti e una salsa agrodolce lo rende il preferito di molti.
+## 📚 Contesto
 
-![Sweet and Sour Pork](img/sweet-and-sour-pork.png)
+### Breve Storia e Origini
+Il Maiale in Agrodolce ha le sue radici nella cucina cantonese, in particolare nelle regioni meridionali della Cina, dove i profili di sapore agrodolce sono comunemente utilizzati. Nel tempo, questo piatto ha guadagnato popolarità globale, soprattutto dopo essere stato introdotto dagli immigrati cinesi ai pubblici occidentali nel XX secolo. Oggi è uno dei piatti cinesi più riconoscibili e serviti al mondo.
 
-## Breve storia e origini
+![咕噜肉 (Maiale in Agrodolce)](img/sweet-and-sour-pork.png)
 
-Le origini del Sweet and Sour Pork risalgono alle regioni meridionali della Cina, dove l’uso di sapori agrodolci è comune in molti piatti. Il piatto ha guadagnato popolarità nel XX secolo, soprattutto dopo che gli immigrati cinesi lo hanno introdotto al pubblico occidentale. È spesso associato a occasioni festive e riunioni familiari, diventando una scelta popolare per le celebrazioni.
-
-### Perché lo mangiamo
-
-Il Sweet and Sour Pork è apprezzato per il suo profilo di sapore unico, che combina la dolcezza dello zucchero e del ketchup con l’acidità dell’aceto. Questo equilibrio non solo esalta il gusto, ma rende anche il piatto visivamente accattivante grazie ai suoi colori brillanti. Viene spesso servito durante il Capodanno Cinese e altre festività, simboleggiando fortuna e felicità.
+### Perché Questo Piatto è Celebrato
+Il fascino del Maiale in Agrodolce risiede nei suoi colori vivaci, nel contrasto di consistenze e nell’equilibrio tra l’acidità dell’aceto e la dolcezza di zucchero e ketchup. Oltre al gusto, porta anche un simbolismo culturale, specialmente durante periodi festivi come il Capodanno Cinese, dove rappresenta felicità e buona fortuna.
 
 ### Curiosità
+Popolarità Globale: Uno dei piatti più ordinati nei ristoranti cinesi, specialmente negli Stati Uniti e in Canada.
 
-- **Varianti**: Diverse regioni propongono versioni diverse del Sweet and Sour Pork, utilizzando proteine o verdure differenti.
-- **Popolarità**: È uno dei piatti più ordinati nei ristoranti cinesi a livello globale, in particolare negli Stati Uniti e in Canada.
-- **Significato culturale**: Il piatto rappresenta l’armonia dei sapori, concetto fondamentale nella cucina cinese.
+Varianti Regionali: Alcune versioni sostituiscono il maiale con pollo, tofu o frutti di mare, riflettendo preferenze locali e necessità dietetiche.
 
----
-
-## Indice
-
-1. [Prerequisiti](#prerequisiti)
-2. [Ingredienti](#ingredienti)
-3. [Preparazione](#preparazione)
-4. [Istruzioni di cottura](#istruzioni-di-cottura)
-5. [Suggerimenti per servire](#suggerimenti-per-servire)
-6. [Consigli per la risoluzione dei problemi](#consigli-per-la-risoluzione-dei-problemi)
-7. [Rischi e soluzioni alternative](#rischi-e-soluzioni-alternative)
+Simbolismo: L’armonia dei sapori dolce e aspro riflette un principio chiave della cucina cinese—equilibrio e unità.
 
 ---
 
-## Lista delle attività
+## 📘 Scopo
 
-- [ ] Raccogli tutti gli ingredienti e gli utensili da cucina
-- [ ] Prepara gli ingredienti
-- [ ] Segui le istruzioni di cottura
-- [ ] Servi e gusta!
+Questo runbook descrive la procedura standard per preparare una versione occidentalizzata del piatto cinese Maiale in Agrodolce. È progettato per fornire risultati coerenti tramite esecuzione passo-passo e per dimostrare come una documentazione strutturata possa semplificare processi complessi—anche in ambito culinario.
 
 ---
 
-## Prerequisiti
+## 🔍 Ambito
 
-Prima di iniziare, procurati i seguenti utensili da cucina:
-
-### Utensili da cucina
-
-| Utensile                   | Scopo                                      |
-|----------------------------|--------------------------------------------|
-| **Wok o padella grande**   | Ideale per saltare in padella              |
-| **Tagliere**               | Essenziale per tagliare                    |
-| **Coltello da chef**       | Fondamentale per tagli netti               |
-| **Ciotola**                | Utile per marinare e mescolare le salse    |
-| **Misurini e cucchiai**    | Per dosare con precisione                  |
-| **Schiumarola**            | Per rimuovere l’olio in eccesso            |
-| **Piatto da portata**      | Per presentare il piatto finito            |
-| **Pinze o cucchiaio di legno** | Per mescolare e girare gli ingredienti |
-
-Avere questi utensili pronti renderà la tua esperienza in cucina più semplice e piacevole.
+Questo runbook si applica a scenari di preparazione alimentare sia domestici che didattici. È rivolto a cuochi principianti e intermedi ed è adatto sia a diete a base di carne che vegetariane con le opportune sostituzioni.
 
 ---
 
-## Ingredienti
+## ✅ Prerequisiti
 
-Ecco cosa ti serve per preparare il Sweet and Sour Pork:
+### Attrezzatura Necessaria
 
-### Per la marinatura del maiale:
-- 500g di filetto di maiale (tagliato a pezzi)
-- 1 cucchiaio di salsa di soia
-- 1 cucchiaio di amido di mais
-
-### Per la salsa agrodolce:
-- 1/4 di tazza di ketchup
-- 1/4 di tazza di aceto di riso (o aceto bianco)
-- 1/4 di tazza di zucchero
-- 1 cucchiaio di salsa di soia
-
-### Per saltare in padella:
-- 1 cucchiaio di olio vegetale (per friggere il maiale)
-- 1 peperone (rosso o verde, a pezzi)
-- 1 cipolla (a pezzi)
-- 1/2 tazza di ananas a pezzi (fresco o in scatola)
-- Facoltativo: 1 carota (a fette)
-
-### Alternative:
-- **Maiale**: Sostituisci con pollo, manzo, tofu o **funghi** per una versione vegetariana. Per una variante completamente vegetale, usa **tempeh** o **seitan**.
-- **Ananas**: Puoi usare **mango** o omettere la frutta per un profilo di sapore diverso.
-- **Verdure**: Aggiungi altre verdure come **broccoli**, **taccole** o **zucchine** per più nutrimento e consistenza.
-
-### Per chi ama il piccante:
-- **Rendi piccante**: Aggiungi peperoncini freschi tritati o un po’ di salsa chili alla salsa agrodolce.
-- **Guarnizione**: Decora con jalapeños a fette o peperoncino in fiocchi per un tocco extra.
-
-Ogni ingrediente contribuisce al tipico sapore agrodolce del piatto, e queste alternative permettono di personalizzarlo secondo le proprie esigenze alimentari.
+| Strumento             | Scopo                                 |
+| --------------------- | ------------------------------------- |
+| Wok o Ampia Padella   | Saltare gli ingredienti               |
+| Tagliere              | Tagliare verdure e carne              |
+| Coltello da Chef      | Tagli precisi per cottura uniforme    |
+| Ciotola               | Marinare e mescolare                  |
+| Misurini/Cucchiai     | Misurazione accurata degli ingredienti|
+| Schiumarola           | Rimuovere il maiale fritto            |
+| Piatto da Portata     | Presentare il piatto finale           |
+| Pinze o Cucchiaio di Legno | Mescolare durante la cottura     |
 
 ---
 
-## Preparazione
+## 📦 Ingredienti
 
-1. **Marina il maiale** (15-30 minuti):
-   - In una ciotola, unisci i pezzi di maiale con salsa di soia e amido di mais.
-   - Mescola bene e lascia marinare per almeno 15-30 minuti. Questo aiuta a rendere il maiale più tenero e saporito.
+### Ingredienti Principali
 
-   > [!NOTE]  
-   > Se usi pollo, tofu o funghi, segui lo stesso procedimento di marinatura.
+#### Marinatura del Maiale:
 
-2. **Prepara le verdure** (10 minuti): [^1]
-   - Mentre il maiale marina, taglia il peperone e la cipolla a pezzi. Se usi la carota, affettala sottilmente per una cottura uniforme.
-   - Scola l’ananas se usi quello in scatola.
+* 500g di filetto di maiale (a pezzi)
+* 1 cucchiaio di salsa di soia
+* 1 cucchiaio di amido di mais
 
-   **Alternative**: Puoi aggiungere altre verdure come broccoli, taccole o funghi per arricchire il piatto.
+#### Salsa Agrodolce:
 
-[^1]: Preparare gli ingredienti in anticipo rende la cottura più veloce e organizzata.
+* 1/4 tazza di ketchup
+* 1/4 tazza di aceto di riso (o aceto bianco)
+* 1/4 tazza di zucchero
+* 1 cucchiaio di salsa di soia
 
----
+#### Per la Saltatura:
 
-## Istruzioni di cottura
-
-1. **Scalda il wok**:
-   - Metti il wok o la padella su fuoco medio-alto. Aggiungi l’olio vegetale e fallo scaldare finché non è brillante.
-
-2. **Friggi il maiale** (5-7 minuti):
-   - Aggiungi il maiale marinato nell’olio caldo in un unico strato. Non sovraccaricare la padella per una cottura uniforme.
-   - Cuoci per circa 5-7 minuti finché non è dorato e cotto. Rimuovi il maiale con la schiumarola e mettilo da parte.
-
-   **Alternative**: Se usi funghi, saltali per circa 3-4 minuti finché non sono dorati e teneri.
-
-3. **Salta le verdure** (3-4 minuti):
-   - Nello stesso wok, aggiungi altro olio se necessario. Unisci cipolla, peperone e carota.
-   - Salta per circa 3-4 minuti finché le verdure non sono tenere ma ancora croccanti.
-
-4. **Aggiungi ananas e salsa** (2 minuti):
-   - Aggiungi i pezzi di ananas nel wok.
-   - In una ciotola a parte, mescola ketchup, aceto di riso, zucchero e salsa di soia per creare la salsa agrodolce. Versa la salsa sulle verdure e mescola bene.
-
-5. **Unisci tutto** (2-3 minuti):
-   - Rimetti il maiale (o l’alternativa) nel wok. Mescola e cuoci per altri 2-3 minuti finché tutto è ben caldo e la salsa si addensa leggermente.
-
-Seguendo questi passaggi, tutto cuocerà correttamente e i sapori si amalgameranno perfettamente.
+* 1 cucchiaio di olio vegetale
+* 1 peperone (a pezzi)
+* 1 cipolla (a pezzi)
+* 1/2 tazza di ananas (fresco o in scatola)
+* Facoltativo: 1 carota a fette
 
 ---
 
-## Suggerimenti per servire
+### 🔄 Sostituzioni e Varianti degli Ingredienti
 
-- **Servi con riso**: Il Sweet and Sour Pork si abbina perfettamente a riso bianco al vapore o riso fritto.  
-  **Alternative**: Quinoa o cavolfiore possono essere ottimi sostituti del riso tradizionale per una versione più salutare.
-- **Guarnizione**: Aggiungi cipollotto tritato o semi di sesamo per più sapore e una bella presentazione.
-- **Piatti di accompagnamento**: Puoi servire il piatto con involtini primavera o un’insalata leggera per un pasto completo.
+La ricetta supporta sostituzioni flessibili per adattarsi a restrizioni dietetiche, preferenze o disponibilità in dispensa.
 
-Questi suggerimenti arricchiscono il pasto e lo rendono ancora più piacevole.
-
----
-
-## Consigli per la risoluzione dei problemi
-
-Se incontri problemi durante la preparazione, ecco alcune soluzioni comuni:
-
-1. **Il maiale è secco e duro**:
-   - **Causa**: Cottura eccessiva.
-   - **Soluzione**: Cuoci solo finché non è dorato; continuerà a cuocere con la salsa.
-
-2. **La salsa è troppo densa**:
-   - **Causa**: Troppo amido di mais o poco liquido.
-   - **Soluzione**: Aggiungi un po’ d’acqua o aceto per diluire.
-
-3. **Le verdure sono mollicce**:
-   - **Causa**: Cottura troppo lunga.
-   - **Soluzione**: Salta velocemente a fuoco alto per risultati migliori.
-
-4. **Il sapore non è equilibrato**:
-   - **Causa**: Mancanza di equilibrio tra dolce e acido.
-   - **Soluzione**: Aggiungi più zucchero o aceto secondo il gusto.
-
-Questi consigli ti aiuteranno a risolvere i problemi più comuni e a ottenere un piatto delizioso.
+| Ingrediente Originale | Alternative                               | Note                                         |
+| --------------------- | ----------------------------------------- | -------------------------------------------- |
+| Filetto di maiale     | Pollo, tofu, funghi, tempeh, seitan       | Adatto per versioni vegetariane/vegane       |
+| Ananas                | Mango, omettere del tutto                 | Cambia la dolcezza; il mango aggiunge freschezza |
+| Peperone              | Broccoli, zucchine, taccole               | Aggiunge colore e nutrizione                 |
+| Riso bianco           | Quinoa, riso di cavolfiore                | Sostituzioni low-carb o senza glutine        |
 
 ---
 
-## Rischi e soluzioni alternative
+### 🌶️ Migliorie Facoltative per Amanti del Piccante
 
-Durante la preparazione del Sweet and Sour Pork, ci sono alcuni rischi da considerare e strategie per gestirli:
+| Opzione             | Descrizione                                         |
+| ------------------- | --------------------------------------------------- |
+| Aggiungi peperoncino| Peperoncini freschi rossi o verdi durante la saltatura|
+| Usa salsa piccante  | Mescolare nella salsa agrodolce                     |
+| Guarnizione         | Jalapeños a fette, peperoncino in fiocchi, olio piccante|
 
-### Rischi potenziali
-
-1. **Sapore sbilanciato**: La salsa può risultare troppo dolce o troppo acida.
-    - **Come rimediare**:  
-        1. Prima di aggiungere la salsa al piatto, assaggiala per valutare l’equilibrio tra dolce e acido.  
-        2. Se è troppo dolce, aggiungi un po’ di aceto e mescola bene.  
-        3. Se è troppo acida, aggiungi un po’ di zucchero e mescola.  
-        4. Assaggia dopo ogni aggiunta, ripetendo se necessario fino a raggiungere il gusto desiderato.  
-        5. Quando sei soddisfatto, aggiungi la salsa al piatto.
-
-2. **Ingredienti mancanti**: Potresti non avere tutti gli ingredienti.
-   - **Come rimediare**:  
-        1. Controlla la lista degli ingredienti prima di iniziare.
-        2. Identifica quelli che ti mancano.
-        3. Consulta la sezione “Alternative” per le sostituzioni (es. usa pollo, tofu o funghi al posto del maiale; sostituisci le verdure con broccoli o taccole).
-        4. Prepara gli ingredienti alternativi come quelli originali (es. marina pollo o tofu come il maiale).
-        5. Adatta i tempi di cottura se necessario per ottenere la giusta consistenza.
-        6. Assaggia e regola i condimenti, poiché alcune alternative assorbono i sapori in modo diverso.
-
-3. **Cottura eccessiva**: Gli ingredienti, soprattutto il maiale, possono diventare duri se troppo cotti.
-   - **Come rimediare**: 
-        1. Segui attentamente la cottura, soprattutto durante la frittura o la saltatura del maiale.
-        2. Imposta un timer secondo i tempi consigliati (es. 5-7 minuti per il maiale, 3-4 minuti per le verdure).
-        3. Usa fuoco medio-alto e non lasciare la padella incustodita.
-        4. Controlla la cottura del maiale tagliandone un pezzo; deve essere cotto ma ancora succoso.
-        5. Togli gli ingredienti dal fuoco appena raggiungono la consistenza desiderata.
-        6. In caso di dubbio, cuoci leggermente meno il maiale e termina la cottura con la salsa.
-
-### Soluzioni alternative
-
-- **Se la salsa non va bene**:  
-    Segui questi passaggi per correggerla:
-
-    1. **Assaggia la salsa**: Prima di modificare, assaggiane un po’ per capire se è troppo dolce, acida o densa.
-    2. **Regola la consistenza**:
-        - Se è troppo densa, aggiungi un po’ d’acqua e mescola. Ripeti se necessario.
-    3. **Bilancia i sapori**:
-        - Se è troppo dolce, aggiungi un po’ di aceto, mescola e assaggia.
-        - Se è troppo acida, aggiungi un po’ di zucchero, mescola e assaggia.
-        - Procedi gradualmente, assaggiando dopo ogni aggiunta.
-    4. **Fai sobbollire brevemente**: Lascia sobbollire la salsa per 1–2 minuti dopo le modifiche per amalgamare i sapori.
-    5. **Servi con salse extra**: Offri salsa di soia, salsa chili o altri condimenti a parte per personalizzare ulteriormente.
-
-    Seguendo questi passaggi, puoi riportare la salsa in equilibrio e ottenere un ottimo risultato.
-
-- **Se il piatto non è come previsto**:   
-    Se sapore o consistenza non sono come desiderato, puoi trasformare il piatto in uno stir-fry. Ecco come:
-
-    1. **Valuta il piatto**: Assaggia e controlla la consistenza. Identifica cosa non va—sapore, consistenza o entrambi.
-    2. **Prepara altre verdure**: Taglia altre verdure come broccoli, taccole, carote o zucchine per aggiungere freschezza.
-    3. **Scalda il wok o la padella**: Aggiungi un po’ d’olio e scalda a fuoco medio-alto.
-    4. **Salta le nuove verdure**: Cuoci le verdure per 2–4 minuti finché sono tenere.
-    5. **Unisci al piatto originale**: Aggiungi il sweet and sour pork (o l’alternativa) alle verdure.
-    6. **Regola la salsa**: Assaggia di nuovo. Se serve, aggiungi salsa di soia, aceto o un pizzico di zucchero. Se la salsa è troppo densa, aggiungi un po’ d’acqua.
-    7. **Mescola e scalda**: Mescola tutto e cuoci per altri 2–3 minuti finché è ben caldo e amalgamato.
-    8. **Servi con riso**: Servi lo stir-fry su riso al vapore o altro cereale a piacere.
-
-    Così puoi rinnovare il piatto e ottenere comunque un pasto soddisfacente.
-
-Essere consapevoli di questi rischi e avere piani alternativi ti aiuterà a cucinare con più sicurezza e a gustare il tuo Sweet and Sour Pork senza preoccupazioni.
+*Chi prepara per gruppi o per persone sensibili al piccante dovrebbe offrire le guarnizioni separatamente per mantenere la ricetta base neutra.*
 
 ---
 
-## Conclusione
+## 🔧 Procedura
 
-Hai imparato a preparare il Sweet and Sour Pork cinese da zero! Con gli strumenti, gli ingredienti e le tecniche giuste, puoi gustare questo classico a casa. Sentiti libero di sperimentare le alternative suggerite per adattare la ricetta ai tuoi gusti. Se incontri problemi, consulta questa guida o chiedi aiuto alle community di cucina. Buona avventura culinaria!
+### Preparazione
 
-### Risorse aggiuntive
+1. **Marinare il Maiale** (15–30 min)
 
-- [Altre ricette cinesi](https://uk.lkk.com/recipes)
-- [Metodi di cottura della cucina cinese](https://www.orientalmart.co.uk/blog/cooking-methods-chinese-cuisine)
+   * Mescolare maiale, salsa di soia e amido di mais in una ciotola.
+   * Lasciare riposare per ammorbidire.
+
+2. **Tagliare le Verdure** (10 min)
+
+   * Tagliare peperone, cipolla e carota (se usata).
+   * Scolare l’ananas se in scatola.
 
 ---
 
-# Informazioni su questo documento
+### Cottura
 
-Questo documento è stato creato per dimostrare come la documentazione tecnica possa essere chiara, accessibile e utile—anche per chi non ha un background tecnico. Esplorando sia il contenuto che il markdown sottostante, anche i non addetti ai lavori possono familiarizzare con la struttura e la sintassi comunemente usate nella scrittura tecnica. L’obiettivo è mostrare che creare e comprendere la documentazione tecnica non deve essere intimidatorio, e che il markdown è un formato semplice e accessibile per organizzare le informazioni.
+1. **Scaldare l’Olio**
 
-### Come visualizzare e modificare questo documento in locale
+   * Riscaldare a fuoco medio-alto in wok o padella.
 
-Per esplorare il markdown e provare a modificarlo, puoi clonare questo repository sul tuo computer. Segui questi passaggi in base al tuo sistema operativo:
+2. **Friggere il Maiale** (5–7 min)
+
+   * Cuocere fino a doratura e completa cottura.
+   * Rimuovere con schiumarola.
+
+3. **Saltare le Verdure** (3–4 min)
+
+   * Aggiungere peperone, cipolla e carota.
+   * Saltare fino a consistenza croccante.
+
+4. **Aggiungere Salsa e Ananas** (2 min)
+
+   * Mescolare gli ingredienti della salsa in una ciotola e versare nel wok.
+   * Unire l’ananas.
+
+5. **Unire e Terminare** (2–3 min)
+
+   * Rimettere il maiale nel wok.
+   * Scaldare e addensare la salsa.
+
+---
+
+## 🔎 Validazione
+
+* Controllo visivo: colori vivaci e salsa lucida.
+* Consistenza: maiale tenero, verdure croccanti.
+* Gusto: equilibrio tra dolce e aspro.
+* Facoltativo: Verificare temperatura interna del maiale (\~63°C o 145°F).
+
+---
+
+## 🚨 Rischi e Mitigazioni
+
+### Rischio 1: **Sapore Sbilanciato**
+
+* **Mitigazione**: Assaggiare la salsa prima dell’uso. Regolare zucchero o aceto.
+
+### Rischio 2: **Maiale Troppo Cotto**
+
+* **Mitigazione**: Rispettare i tempi di cottura; lasciare riposare brevemente dopo la frittura.
+
+### Rischio 3: **Ingredienti Non Disponibili**
+
+* **Mitigazione**: Usare le alternative suggerite.
+
+---
+
+## 🔁 Piani di Emergenza
+
+* **Se la salsa è troppo densa**: Aggiungere acqua.
+* **Se la salsa è troppo liquida**: Ridurre ulteriormente sul fuoco.
+* **Se il sapore non convince**: Aggiungere condimenti come salsa di soia o salsa piccante.
+* **Se il piatto non soddisfa**: Trasformare in una saltata di verdure con salsa extra.
+
+---
+
+## 🍽️ Suggerimenti per il Servizio
+
+* **Base Consigliata**: Riso jasmine o riso bianco al vapore
+* **Opzione Salutare**: Quinoa o riso di cavolfiore
+* **Idee per Guarnire**: Cipollotto tritato, semi di sesamo, olio piccante
+* **Contorni Suggeriti**: Involtini primavera, zuppa di uova, insalata di cetrioli
+
+---
+
+## 🧰 Risoluzione dei Problemi
+
+| Sintomo             | Causa Probabile | Soluzione                  |
+| ------------------- | --------------- | -------------------------- |
+| Maiale secco        | Troppo cotto    | Ridurre il tempo di frittura|
+| Salsa troppo densa  | Troppo amido    | Aggiungere acqua           |
+| Verdure molli       | Troppo cotte    | Saltare a fuoco alto       |
+| Gusto piatto        | Scarso equilibrio| Regolare zucchero o aceto  |
+
+---
+
+## 📜 Registro Modifiche
+
+| Data       | Modifica                           | Autore      |
+| ---------- | ---------------------------------- | ----------- |
+| 2025-06-07 | Creazione iniziale                 | Samuel Chan |
+| 2025-06-09 | Riformattato come runbook tecnico  | Samuel Chan |
+
+---
+---
+
+# 📘 Informazioni su Questo Documento
+
+Questo documento è pensato per **formare manager operativi** e **tecnici della documentazione** su come attività quotidiane—come una ricetta—possano essere strutturate in formato **runbook** per supportare operazioni fluide e ripetibili.
+
+Definendo chiaramente input, procedure, rischi e validazioni, i runbook riducono ambiguità ed errori umani. Questo esempio dimostra come un approccio strutturato migliori chiarezza e coerenza—anche fuori dai contesti IT o DevOps tradizionali.
+
+---
+
+## 📥 Come Usare o Modificare Questo Runbook
+
+### Per esplorare o adattare questo runbook:
+
+1. **Clona il Repository**
+
+   ```sh
+   git clone https://github.com/ccaecha/sweet-and-sour-pork.git
+   ```
+
+2. **Apri il File**  
+   Usa un editor markdown come **VS Code**, **Typora** o il visualizzatore integrato di GitHub.
+
+3. **Modifica e Impara**  
+   Esamina la formattazione, prova modifiche ed esplora la sintassi markdown per migliorare le tue competenze di documentazione tecnica.
+
+### Per Modificare Questo Documento in Locale
+
+Per esplorare il sorgente markdown e sperimentare con le modifiche, puoi clonare questo repository sul tuo computer. Segui i passaggi in base al tuo sistema operativo:
 
 #### 1. Installa Git
 
 **Windows:**
 - Scarica Git da [git-scm.com](https://git-scm.com/download/win).
-- Esegui l’installer e segui le istruzioni.
-- Dopo l’installazione, apri il **Prompt dei comandi** (premi `Win + R`, digita `cmd` e premi Invio).
+- Esegui l’installer e segui le istruzioni predefinite.
+- Dopo l’installazione, apri il **Prompt dei Comandi** (premi `Win + R`, digita `cmd` e premi Invio).
 
 **macOS:**
 - Apri l’app **Terminale** (in Applicazioni > Utility).
-- Digita `git --version`. Se Git non è installato, ti verrà chiesto di installare gli strumenti da riga di comando di Xcode. Segui le istruzioni.
+- Digita `git --version`. Se Git non è installato, ti verrà chiesto di installare gli Strumenti da Riga di Comando Xcode. Segui le istruzioni a schermo.
 
 **Linux (Ubuntu/Debian):**
 - Apri il **Terminale**.
@@ -287,15 +263,15 @@ Per esplorare il markdown e provare a modificarlo, puoi clonare questo repositor
     sudo apt install git
     ```
 
-#### 2. Clona il repository
+#### 2. Clona il Repository
 
-Nel prompt dei comandi o nel terminale, esegui:
+Nel prompt dei comandi o terminale, esegui:
 ```sh
 git clone https://github.com/ccaecha/sweet-and-sour-pork.git
 ```
-Sostituisci `your-username` con il tuo nome utente o organizzazione GitHub.
+Sostituisci `your-username` con il vero nome utente o organizzazione GitHub.
 
-#### 3. Apri e modifica il file markdown
+#### 3. Apri e Modifica il File Markdown
 
 - Vai nella cartella clonata:
     ```sh
@@ -303,25 +279,9 @@ Sostituisci `your-username` con il tuo nome utente o organizzazione GitHub.
     ```
 - Apri `README.md` con un editor di testo a tua scelta (es. Notepad, VSCode, Sublime Text).
 
-#### 4. Esplora e impara
+#### 4. Esplora e Impara
 
-- Esamina la sintassi e la struttura del markdown.
+- Esamina la sintassi e la struttura markdown.
 - Prova a fare piccole modifiche e visualizza i risultati con un visualizzatore o editor markdown.
 
-Seguendo questi passaggi, potrai prendere confidenza sia con la documentazione tecnica sia con le basi del markdown.
-
----
-### Nota a piè di pagina
-
-> Questo documento è stato preparato con VSCode (Visual Studio Code). Puoi scaricarlo da https://code.visualstudio.com/
-
-```markdown annotate
-# Questo documento utilizza il formato `markdown`.
-
-> **Nota:**  
-> Anche se questo documento è ospitato su GitHub, che offre un ottimo supporto per la visualizzazione dei file markdown, non tutte le funzionalità usate qui sono universalmente supportate. Alcuni elementi potrebbero non essere visualizzati correttamente su GitHub, mentre altri sono specifici dell’implementazione markdown di GitHub e potrebbero non funzionare in altri editor o visualizzatori.
-
-Per maggiori informazioni su `markdown`, consulta [The Markdown Guide](https://www.markdownguide.org/).
-```
-
-Per ulteriori informazioni su Octicons, consulta il [sito Octicons](https://primer.style/octicons/).
+Seguendo questi passaggi, potrai acquisire familiarità sia con la documentazione tecnica che con le basi della formattazione markdown.
